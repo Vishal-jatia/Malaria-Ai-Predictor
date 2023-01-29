@@ -1,0 +1,2333 @@
+﻿ISO3,Name,Admin Level,Metric,Units,Year,Value
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2010,33644.3459527645
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2011,31314.26485585247
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2012,6572.69371099292
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2013,11752.506154280843
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2014,21453.72372811091
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2015,27819.245168524027
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2016,46746.48089965939
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2017,52407.40357823322
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2018,32497.307637570615
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2019,11137.570339209919
+"AFG","Afghanistan","admin0","Clinical Cases","Cases",2020,9690.270246522177
+"AFG","Afghanistan","admin0","Deaths","Deaths",2010,323.33970098782413
+"AFG","Afghanistan","admin0","Deaths","Deaths",2011,347.5618517847011
+"AFG","Afghanistan","admin0","Deaths","Deaths",2012,78.74116293792218
+"AFG","Afghanistan","admin0","Deaths","Deaths",2013,121.62081188485334
+"AFG","Afghanistan","admin0","Deaths","Deaths",2014,224.69703899608024
+"AFG","Afghanistan","admin0","Deaths","Deaths",2015,288.9957481573865
+"AFG","Afghanistan","admin0","Deaths","Deaths",2016,527.3351620502681
+"AFG","Afghanistan","admin0","Deaths","Deaths",2017,631.1406280905704
+"AFG","Afghanistan","admin0","Deaths","Deaths",2018,356.3174118963653
+"AFG","Afghanistan","admin0","Deaths","Deaths",2019,68.70834074699133
+"AFG","Afghanistan","admin0","Deaths","Deaths",2020,61.54456527203538
+"DZA","Algeria","admin0","Clinical Cases","Cases",2010,1.8604212889122915e-11
+"DZA","Algeria","admin0","Clinical Cases","Cases",2011,2.8974530925865323e-11
+"DZA","Algeria","admin0","Clinical Cases","Cases",2012,22.685134566325456
+"DZA","Algeria","admin0","Clinical Cases","Cases",2013,2.427506405863104e-11
+"DZA","Algeria","admin0","Clinical Cases","Cases",2014,0
+"DZA","Algeria","admin0","Clinical Cases","Cases",2015,0
+"DZA","Algeria","admin0","Clinical Cases","Cases",2016,0
+"DZA","Algeria","admin0","Clinical Cases","Cases",2017,0
+"DZA","Algeria","admin0","Clinical Cases","Cases",2018,0
+"DZA","Algeria","admin0","Clinical Cases","Cases",2019,0
+"DZA","Algeria","admin0","Clinical Cases","Cases",2020,0
+"DZA","Algeria","admin0","Deaths","Deaths",2010,0.03831406364852147
+"DZA","Algeria","admin0","Deaths","Deaths",2011,0.020285746124034082
+"DZA","Algeria","admin0","Deaths","Deaths",2012,0.23333795400690882
+"DZA","Algeria","admin0","Deaths","Deaths",2013,0.025964520706724652
+"DZA","Algeria","admin0","Deaths","Deaths",2014,0
+"DZA","Algeria","admin0","Deaths","Deaths",2015,0
+"DZA","Algeria","admin0","Deaths","Deaths",2016,0
+"DZA","Algeria","admin0","Deaths","Deaths",2017,0
+"DZA","Algeria","admin0","Deaths","Deaths",2018,0
+"DZA","Algeria","admin0","Deaths","Deaths",2019,0
+"DZA","Algeria","admin0","Deaths","Deaths",2020,0
+"AGO","Angola","admin0","Clinical Cases","Cases",2010,3761192.257376532
+"AGO","Angola","admin0","Clinical Cases","Cases",2011,3557193.5933095696
+"AGO","Angola","admin0","Clinical Cases","Cases",2012,3625372.1668180358
+"AGO","Angola","admin0","Clinical Cases","Cases",2013,3921162.727121728
+"AGO","Angola","admin0","Clinical Cases","Cases",2014,4220624.280666242
+"AGO","Angola","admin0","Clinical Cases","Cases",2015,4632918.011052487
+"AGO","Angola","admin0","Clinical Cases","Cases",2016,5141871.859254678
+"AGO","Angola","admin0","Clinical Cases","Cases",2017,5863522.35259166
+"AGO","Angola","admin0","Clinical Cases","Cases",2018,6507498.669471608
+"AGO","Angola","admin0","Clinical Cases","Cases",2019,7166583.269107806
+"AGO","Angola","admin0","Clinical Cases","Cases",2020,8331017.696842643
+"AGO","Angola","admin0","Deaths","Deaths",2010,8640.962835582952
+"AGO","Angola","admin0","Deaths","Deaths",2011,7377.088798224047
+"AGO","Angola","admin0","Deaths","Deaths",2012,6915.748353835044
+"AGO","Angola","admin0","Deaths","Deaths",2013,6891.682119727438
+"AGO","Angola","admin0","Deaths","Deaths",2014,7135.150882454042
+"AGO","Angola","admin0","Deaths","Deaths",2015,7803.561663452658
+"AGO","Angola","admin0","Deaths","Deaths",2016,8214.259864999536
+"AGO","Angola","admin0","Deaths","Deaths",2017,8963.610209303055
+"AGO","Angola","admin0","Deaths","Deaths",2018,10151.480222026144
+"AGO","Angola","admin0","Deaths","Deaths",2019,10611.72138251807
+"AGO","Angola","admin0","Deaths","Deaths",2020,14345.320908393192
+"ARG","Argentina","admin0","Clinical Cases","Cases",2010,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2011,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2012,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2013,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2014,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2015,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2016,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2017,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2018,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2019,0
+"ARG","Argentina","admin0","Clinical Cases","Cases",2020,0
+"ARG","Argentina","admin0","Deaths","Deaths",2010,0
+"ARG","Argentina","admin0","Deaths","Deaths",2011,0
+"ARG","Argentina","admin0","Deaths","Deaths",2012,0
+"ARG","Argentina","admin0","Deaths","Deaths",2013,0
+"ARG","Argentina","admin0","Deaths","Deaths",2014,0
+"ARG","Argentina","admin0","Deaths","Deaths",2015,0
+"ARG","Argentina","admin0","Deaths","Deaths",2016,0
+"ARG","Argentina","admin0","Deaths","Deaths",2017,0
+"ARG","Argentina","admin0","Deaths","Deaths",2018,0
+"ARG","Argentina","admin0","Deaths","Deaths",2019,0
+"ARG","Argentina","admin0","Deaths","Deaths",2020,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2010,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2011,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2012,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2013,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2014,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2015,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2016,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2017,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2018,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2019,0
+"ARM","Armenia","admin0","Clinical Cases","Cases",2020,0
+"ARM","Armenia","admin0","Deaths","Deaths",2010,0
+"ARM","Armenia","admin0","Deaths","Deaths",2011,0
+"ARM","Armenia","admin0","Deaths","Deaths",2012,0
+"ARM","Armenia","admin0","Deaths","Deaths",2013,0
+"ARM","Armenia","admin0","Deaths","Deaths",2014,0
+"ARM","Armenia","admin0","Deaths","Deaths",2015,0
+"ARM","Armenia","admin0","Deaths","Deaths",2016,0
+"ARM","Armenia","admin0","Deaths","Deaths",2017,0
+"ARM","Armenia","admin0","Deaths","Deaths",2018,0
+"ARM","Armenia","admin0","Deaths","Deaths",2019,0
+"ARM","Armenia","admin0","Deaths","Deaths",2020,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2010,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2011,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2012,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2013,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2014,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2015,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2016,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2017,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2018,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2019,0
+"AZE","Azerbaijan","admin0","Clinical Cases","Cases",2020,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2010,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2011,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2012,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2013,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2014,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2015,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2016,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2017,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2018,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2019,0
+"AZE","Azerbaijan","admin0","Deaths","Deaths",2020,0
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2010,349381.6073050225
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2011,332858.69363915175
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2012,205527.93059378912
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2013,180356.98489493696
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2014,343956.1290793448
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2015,238027.9628935576
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2016,167722.1383372638
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2017,277098.50330953585
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2018,64134.99276327287
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2019,91223.48214780792
+"BGD","Bangladesh","admin0","Clinical Cases","Cases",2020,34556.7264530593
+"BGD","Bangladesh","admin0","Deaths","Deaths",2010,3979.0099720340654
+"BGD","Bangladesh","admin0","Deaths","Deaths",2011,4481.121685913557
+"BGD","Bangladesh","admin0","Deaths","Deaths",2012,2536.8290074935244
+"BGD","Bangladesh","admin0","Deaths","Deaths",2013,2296.3540471856577
+"BGD","Bangladesh","admin0","Deaths","Deaths",2014,5081.3131969719025
+"BGD","Bangladesh","admin0","Deaths","Deaths",2015,3941.04310540035
+"BGD","Bangladesh","admin0","Deaths","Deaths",2016,2519.4755456740068
+"BGD","Bangladesh","admin0","Deaths","Deaths",2017,4505.043753425348
+"BGD","Bangladesh","admin0","Deaths","Deaths",2018,930.1270592719789
+"BGD","Bangladesh","admin0","Deaths","Deaths",2019,1026.370073309894
+"BGD","Bangladesh","admin0","Deaths","Deaths",2020,392.8560567113068
+"BLZ","Belize","admin0","Clinical Cases","Cases",2010,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2011,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2012,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2013,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2014,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2015,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2016,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2017,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2018,0.9604201868112643
+"BLZ","Belize","admin0","Clinical Cases","Cases",2019,0
+"BLZ","Belize","admin0","Clinical Cases","Cases",2020,0
+"BLZ","Belize","admin0","Deaths","Deaths",2010,0
+"BLZ","Belize","admin0","Deaths","Deaths",2011,0
+"BLZ","Belize","admin0","Deaths","Deaths",2012,0
+"BLZ","Belize","admin0","Deaths","Deaths",2013,0
+"BLZ","Belize","admin0","Deaths","Deaths",2014,0
+"BLZ","Belize","admin0","Deaths","Deaths",2015,0
+"BLZ","Belize","admin0","Deaths","Deaths",2016,0
+"BLZ","Belize","admin0","Deaths","Deaths",2017,0
+"BLZ","Belize","admin0","Deaths","Deaths",2018,0.024028047670907438
+"BLZ","Belize","admin0","Deaths","Deaths",2019,0
+"BLZ","Belize","admin0","Deaths","Deaths",2020,0
+"BEN","Benin","admin0","Clinical Cases","Cases",2010,3914099.639440213
+"BEN","Benin","admin0","Clinical Cases","Cases",2011,3767309.156609458
+"BEN","Benin","admin0","Clinical Cases","Cases",2012,3681688.932022853
+"BEN","Benin","admin0","Clinical Cases","Cases",2013,3749508.490158177
+"BEN","Benin","admin0","Clinical Cases","Cases",2014,3932127.0408296627
+"BEN","Benin","admin0","Clinical Cases","Cases",2015,4314004.961345112
+"BEN","Benin","admin0","Clinical Cases","Cases",2016,4837881.296319393
+"BEN","Benin","admin0","Clinical Cases","Cases",2017,5048905.516997152
+"BEN","Benin","admin0","Clinical Cases","Cases",2018,5069012.986068006
+"BEN","Benin","admin0","Clinical Cases","Cases",2019,5133751.115067537
+"BEN","Benin","admin0","Clinical Cases","Cases",2020,5141713.511218678
+"BEN","Benin","admin0","Deaths","Deaths",2010,11395.485848379054
+"BEN","Benin","admin0","Deaths","Deaths",2011,10539.967951055634
+"BEN","Benin","admin0","Deaths","Deaths",2012,9887.085071634827
+"BEN","Benin","admin0","Deaths","Deaths",2013,9552.930153930418
+"BEN","Benin","admin0","Deaths","Deaths",2014,9572.899974462074
+"BEN","Benin","admin0","Deaths","Deaths",2015,10028.704220514253
+"BEN","Benin","admin0","Deaths","Deaths",2016,10620.91883568314
+"BEN","Benin","admin0","Deaths","Deaths",2017,10917.86658705705
+"BEN","Benin","admin0","Deaths","Deaths",2018,12197.695159362582
+"BEN","Benin","admin0","Deaths","Deaths",2019,11596.756859817806
+"BEN","Benin","admin0","Deaths","Deaths",2020,11900.486983819372
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2010,306.37386879308514
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2011,206.35846698795947
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2012,68.46140692889145
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2013,18.52335923144532
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2014,20.35626071903231
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2015,29.66987053465579
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2016,2.4855528733094214
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2017,0.0005760207241344245
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2018,2.086813753231134
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2019,2.513971031137503
+"BTN","Bhutan","admin0","Clinical Cases","Cases",2020,0.0003409478814826883
+"BTN","Bhutan","admin0","Deaths","Deaths",2010,1.5806152662418052
+"BTN","Bhutan","admin0","Deaths","Deaths",2011,1.1373321933506355
+"BTN","Bhutan","admin0","Deaths","Deaths",2012,0.3700049435341522
+"BTN","Bhutan","admin0","Deaths","Deaths",2013,0.1158764990126701
+"BTN","Bhutan","admin0","Deaths","Deaths",2014,0.14735541905302282
+"BTN","Bhutan","admin0","Deaths","Deaths",2015,0.24021181498896374
+"BTN","Bhutan","admin0","Deaths","Deaths",2016,0.020066211976600558
+"BTN","Bhutan","admin0","Deaths","Deaths",2017,0.000004038071896251417
+"BTN","Bhutan","admin0","Deaths","Deaths",2018,0.01902523871151509
+"BTN","Bhutan","admin0","Deaths","Deaths",2019,0.01594424223400184
+"BTN","Bhutan","admin0","Deaths","Deaths",2020,0.0000014334997057937611
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2010,3065.294090115133
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2011,963.2796935122823
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2012,1079.492428491736
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2013,2207.1993933002564
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2014,994.5956222249416
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2015,170.71097803939367
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2016,18.428643585198007
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2017,16.4335815119819
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2018,0
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2019,53.66664552576743
+"BOL","Bolivia","admin0","Clinical Cases","Cases",2020,141.59201954170945
+"BOL","Bolivia","admin0","Deaths","Deaths",2010,11.690564652594443
+"BOL","Bolivia","admin0","Deaths","Deaths",2011,3.8583998628387173
+"BOL","Bolivia","admin0","Deaths","Deaths",2012,4.427338187815134
+"BOL","Bolivia","admin0","Deaths","Deaths",2013,7.437769487496303
+"BOL","Bolivia","admin0","Deaths","Deaths",2014,3.9233497195309117
+"BOL","Bolivia","admin0","Deaths","Deaths",2015,0.6989820035405381
+"BOL","Bolivia","admin0","Deaths","Deaths",2016,0.06827615836381772
+"BOL","Bolivia","admin0","Deaths","Deaths",2017,0.056342465447569504
+"BOL","Bolivia","admin0","Deaths","Deaths",2018,0
+"BOL","Bolivia","admin0","Deaths","Deaths",2019,0.17241833851555927
+"BOL","Bolivia","admin0","Deaths","Deaths",2020,0.43145153380627743
+"BWA","Botswana","admin0","Clinical Cases","Cases",2010,3817.0451676125263
+"BWA","Botswana","admin0","Clinical Cases","Cases",2011,1186.1720972464498
+"BWA","Botswana","admin0","Clinical Cases","Cases",2012,543.2988978360696
+"BWA","Botswana","admin0","Clinical Cases","Cases",2013,1273.284721573523
+"BWA","Botswana","admin0","Clinical Cases","Cases",2014,3663.148176560444
+"BWA","Botswana","admin0","Clinical Cases","Cases",2015,802.5178744919971
+"BWA","Botswana","admin0","Clinical Cases","Cases",2016,1899.0951645986922
+"BWA","Botswana","admin0","Clinical Cases","Cases",2017,5376.996973434023
+"BWA","Botswana","admin0","Clinical Cases","Cases",2018,1565.9729338631416
+"BWA","Botswana","admin0","Clinical Cases","Cases",2019,494.6715861602025
+"BWA","Botswana","admin0","Clinical Cases","Cases",2020,2607.875517173052
+"BWA","Botswana","admin0","Deaths","Deaths",2010,7.962518453321244
+"BWA","Botswana","admin0","Deaths","Deaths",2011,2.143574546091371
+"BWA","Botswana","admin0","Deaths","Deaths",2012,0.8748690939459028
+"BWA","Botswana","admin0","Deaths","Deaths",2013,2.0460226433908657
+"BWA","Botswana","admin0","Deaths","Deaths",2014,5.208127193709554
+"BWA","Botswana","admin0","Deaths","Deaths",2015,0.9220629995729407
+"BWA","Botswana","admin0","Deaths","Deaths",2016,2.5315223062597476
+"BWA","Botswana","admin0","Deaths","Deaths",2017,7.459870578424493
+"BWA","Botswana","admin0","Deaths","Deaths",2018,1.860025094443261
+"BWA","Botswana","admin0","Deaths","Deaths",2019,0.8117436379772504
+"BWA","Botswana","admin0","Deaths","Deaths",2020,6.894387574199309
+"BRA","Brazil","admin0","Clinical Cases","Cases",2010,86725.41026429588
+"BRA","Brazil","admin0","Clinical Cases","Cases",2011,66780.34411477853
+"BRA","Brazil","admin0","Clinical Cases","Cases",2012,66188.76535822704
+"BRA","Brazil","admin0","Clinical Cases","Cases",2013,52269.16968154799
+"BRA","Brazil","admin0","Clinical Cases","Cases",2014,42551.16262645237
+"BRA","Brazil","admin0","Clinical Cases","Cases",2015,34940.124567752275
+"BRA","Brazil","admin0","Clinical Cases","Cases",2016,31743.298330336424
+"BRA","Brazil","admin0","Clinical Cases","Cases",2017,41296.245315113345
+"BRA","Brazil","admin0","Clinical Cases","Cases",2018,38007.18104731572
+"BRA","Brazil","admin0","Clinical Cases","Cases",2019,38284.225266407724
+"BRA","Brazil","admin0","Clinical Cases","Cases",2020,50679.3833234291
+"BRA","Brazil","admin0","Deaths","Deaths",2010,361.4528370669631
+"BRA","Brazil","admin0","Deaths","Deaths",2011,300.8505420941381
+"BRA","Brazil","admin0","Deaths","Deaths",2012,289.4853443237174
+"BRA","Brazil","admin0","Deaths","Deaths",2013,218.91908934377923
+"BRA","Brazil","admin0","Deaths","Deaths",2014,161.72349701191126
+"BRA","Brazil","admin0","Deaths","Deaths",2015,128.6511691014808
+"BRA","Brazil","admin0","Deaths","Deaths",2016,89.91588547097146
+"BRA","Brazil","admin0","Deaths","Deaths",2017,108.00626826943235
+"BRA","Brazil","admin0","Deaths","Deaths",2018,98.52071143867525
+"BRA","Brazil","admin0","Deaths","Deaths",2019,94.4041969139116
+"BRA","Brazil","admin0","Deaths","Deaths",2020,136.27090981973834
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2010,9764175.22139154
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2011,9845913.501449723
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2012,9762753.913873954
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2013,9208667.672299545
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2014,8758941.736136258
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2015,8564434.212962834
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2016,8000745.820351987
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2017,7994189.766586545
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2018,8256983.950952685
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2019,8466169.714767586
+"BFA","Burkina Faso","admin0","Clinical Cases","Cases",2020,9341377.15805208
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2010,43753.72929970097
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2011,42532.36604167242
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2012,40501.199394270436
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2013,36775.249121193614
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2014,33580.70544094243
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2015,31625.547547223417
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2016,28162.81735532785
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2017,27955.889609113674
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2018,30568.553743552766
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2019,31382.159987673724
+"BFA","Burkina Faso","admin0","Deaths","Deaths",2020,39191.30025621742
+"BDI","Burundi","admin0","Clinical Cases","Cases",2010,1517285.8155252477
+"BDI","Burundi","admin0","Clinical Cases","Cases",2011,1522445.2362445772
+"BDI","Burundi","admin0","Clinical Cases","Cases",2012,1575301.4828391173
+"BDI","Burundi","admin0","Clinical Cases","Cases",2013,1677562.592306885
+"BDI","Burundi","admin0","Clinical Cases","Cases",2014,1768566.3840379985
+"BDI","Burundi","admin0","Clinical Cases","Cases",2015,1988839.7626862167
+"BDI","Burundi","admin0","Clinical Cases","Cases",2016,2419437.8227065094
+"BDI","Burundi","admin0","Clinical Cases","Cases",2017,2753321.261830759
+"BDI","Burundi","admin0","Clinical Cases","Cases",2018,3325597.087205511
+"BDI","Burundi","admin0","Clinical Cases","Cases",2019,3555787.063871435
+"BDI","Burundi","admin0","Clinical Cases","Cases",2020,3870280.2222935366
+"BDI","Burundi","admin0","Deaths","Deaths",2010,7364.733794994064
+"BDI","Burundi","admin0","Deaths","Deaths",2011,6860.949841959317
+"BDI","Burundi","admin0","Deaths","Deaths",2012,6547.365220705382
+"BDI","Burundi","admin0","Deaths","Deaths",2013,6698.635188184706
+"BDI","Burundi","admin0","Deaths","Deaths",2014,6536.730379102508
+"BDI","Burundi","admin0","Deaths","Deaths",2015,7199.208947575212
+"BDI","Burundi","admin0","Deaths","Deaths",2016,8723.672012371027
+"BDI","Burundi","admin0","Deaths","Deaths",2017,9729.903905251436
+"BDI","Burundi","admin0","Deaths","Deaths",2018,12324.864745812783
+"BDI","Burundi","admin0","Deaths","Deaths",2019,12795.936302931912
+"BDI","Burundi","admin0","Deaths","Deaths",2020,16699.41526873973
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2010,140975.65102146033
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2011,128284.61277946064
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2012,65919.83726511517
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2013,37679.093385163265
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2014,65227.0222239437
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2015,84625.27895781462
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2016,54331.373494390704
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2017,98799.65156490433
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2018,38867.1294887169
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2019,13746.315575943709
+"KHM","Cambodia","admin0","Clinical Cases","Cases",2020,5555.195688486392
+"KHM","Cambodia","admin0","Deaths","Deaths",2010,751.6260829447425
+"KHM","Cambodia","admin0","Deaths","Deaths",2011,625.8058990096378
+"KHM","Cambodia","admin0","Deaths","Deaths",2012,294.47219318882907
+"KHM","Cambodia","admin0","Deaths","Deaths",2013,168.55050931160886
+"KHM","Cambodia","admin0","Deaths","Deaths",2014,285.0611601196136
+"KHM","Cambodia","admin0","Deaths","Deaths",2015,284.75267047000654
+"KHM","Cambodia","admin0","Deaths","Deaths",2016,164.95094458976936
+"KHM","Cambodia","admin0","Deaths","Deaths",2017,298.73707026264833
+"KHM","Cambodia","admin0","Deaths","Deaths",2018,117.66321564027264
+"KHM","Cambodia","admin0","Deaths","Deaths",2019,31.395536439706767
+"KHM","Cambodia","admin0","Deaths","Deaths",2020,13.484473529608858
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2010,6489891.6466196375
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2011,6214943.474207924
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2012,6191946.360544537
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2013,6514924.570797308
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2014,6740767.376296871
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2015,6956075.0187316155
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2016,7089641.428500853
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2017,7124042.282626653
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2018,7260941.968354474
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2019,7393510.8236269
+"CMR","Cameroon","admin0","Clinical Cases","Cases",2020,8133195.390480423
+"CMR","Cameroon","admin0","Deaths","Deaths",2010,22784.92111574498
+"CMR","Cameroon","admin0","Deaths","Deaths",2011,21779.042943644152
+"CMR","Cameroon","admin0","Deaths","Deaths",2012,20534.370934751874
+"CMR","Cameroon","admin0","Deaths","Deaths",2013,20221.589777493205
+"CMR","Cameroon","admin0","Deaths","Deaths",2014,19702.17903534521
+"CMR","Cameroon","admin0","Deaths","Deaths",2015,19340.923065427545
+"CMR","Cameroon","admin0","Deaths","Deaths",2016,19548.471947345355
+"CMR","Cameroon","admin0","Deaths","Deaths",2017,20156.390314840897
+"CMR","Cameroon","admin0","Deaths","Deaths",2018,20049.69324439045
+"CMR","Cameroon","admin0","Deaths","Deaths",2019,20588.438346618077
+"CMR","Cameroon","admin0","Deaths","Deaths",2020,27525.41914120525
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2010,113.57909834594626
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2011,15.766279763049587
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2012,2.1494385131519524
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2013,38.70461825554072
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2014,47.83696516884833
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2015,12.112289167711152
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2016,83.69112929966914
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2017,739.1046866133601
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2018,3.4316708160218874
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2019,0.5885979237232338
+"CPV","Cape Verde","admin0","Clinical Cases","Cases",2020,0
+"CPV","Cape Verde","admin0","Deaths","Deaths",2010,0.16225938347480973
+"CPV","Cape Verde","admin0","Deaths","Deaths",2011,0.03794880669945845
+"CPV","Cape Verde","admin0","Deaths","Deaths",2012,0.0024812830784850535
+"CPV","Cape Verde","admin0","Deaths","Deaths",2013,0.04144178946851252
+"CPV","Cape Verde","admin0","Deaths","Deaths",2014,0.048227358508641675
+"CPV","Cape Verde","admin0","Deaths","Deaths",2015,0.010871337430716017
+"CPV","Cape Verde","admin0","Deaths","Deaths",2016,0.14699111381836716
+"CPV","Cape Verde","admin0","Deaths","Deaths",2017,0.7637970588945495
+"CPV","Cape Verde","admin0","Deaths","Deaths",2018,0.008344929259121725
+"CPV","Cape Verde","admin0","Deaths","Deaths",2019,0.0008041832668491711
+"CPV","Cape Verde","admin0","Deaths","Deaths",2020,0
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2010,1821696.459114328
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2011,1817040.0362014927
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2012,1792161.3847810053
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2013,1755257.3744749452
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2014,1722124.253515803
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2015,1672364.7014938556
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2016,1643837.3998921895
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2017,1647642.6097410657
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2018,1664325.860029557
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2019,1697069.5348566945
+"CAF","Central African Republic","admin0","Clinical Cases","Cases",2020,1702993.8574673822
+"CAF","Central African Republic","admin0","Deaths","Deaths",2010,5937.475453273675
+"CAF","Central African Republic","admin0","Deaths","Deaths",2011,5655.068074074384
+"CAF","Central African Republic","admin0","Deaths","Deaths",2012,5533.939726915539
+"CAF","Central African Republic","admin0","Deaths","Deaths",2013,5447.485305526337
+"CAF","Central African Republic","admin0","Deaths","Deaths",2014,5425.250930095982
+"CAF","Central African Republic","admin0","Deaths","Deaths",2015,5145.546515036586
+"CAF","Central African Republic","admin0","Deaths","Deaths",2016,4847.03017542313
+"CAF","Central African Republic","admin0","Deaths","Deaths",2017,4746.453684692191
+"CAF","Central African Republic","admin0","Deaths","Deaths",2018,4912.745623281386
+"CAF","Central African Republic","admin0","Deaths","Deaths",2019,4780.949744115756
+"CAF","Central African Republic","admin0","Deaths","Deaths",2020,4873.992307842245
+"TCD","Chad","admin0","Clinical Cases","Cases",2010,2730085.0717561385
+"TCD","Chad","admin0","Clinical Cases","Cases",2011,2638478.7779593966
+"TCD","Chad","admin0","Clinical Cases","Cases",2012,2546264.0745738028
+"TCD","Chad","admin0","Clinical Cases","Cases",2013,2485617.655977558
+"TCD","Chad","admin0","Clinical Cases","Cases",2014,2554148.0016480233
+"TCD","Chad","admin0","Clinical Cases","Cases",2015,2663115.1611944526
+"TCD","Chad","admin0","Clinical Cases","Cases",2016,2806938.1147080027
+"TCD","Chad","admin0","Clinical Cases","Cases",2017,2965763.1015322595
+"TCD","Chad","admin0","Clinical Cases","Cases",2018,3228615.7462044354
+"TCD","Chad","admin0","Clinical Cases","Cases",2019,3302066.35580081
+"TCD","Chad","admin0","Clinical Cases","Cases",2020,3479516.293445235
+"TCD","Chad","admin0","Deaths","Deaths",2010,7712.3484906376525
+"TCD","Chad","admin0","Deaths","Deaths",2011,7081.376216520662
+"TCD","Chad","admin0","Deaths","Deaths",2012,6464.004240632213
+"TCD","Chad","admin0","Deaths","Deaths",2013,6194.292505264681
+"TCD","Chad","admin0","Deaths","Deaths",2014,6241.033068711432
+"TCD","Chad","admin0","Deaths","Deaths",2015,6300.043081659098
+"TCD","Chad","admin0","Deaths","Deaths",2016,6691.030880050621
+"TCD","Chad","admin0","Deaths","Deaths",2017,7068.583867775502
+"TCD","Chad","admin0","Deaths","Deaths",2018,7390.490733499319
+"TCD","Chad","admin0","Deaths","Deaths",2019,7757.915460524865
+"TCD","Chad","admin0","Deaths","Deaths",2020,8760.502406221798
+"CHN","China","admin0","Clinical Cases","Cases",2010,2640.9520870745773
+"CHN","China","admin0","Clinical Cases","Cases",2011,1098.5346989401967
+"CHN","China","admin0","Clinical Cases","Cases",2012,43.87840554072352
+"CHN","China","admin0","Clinical Cases","Cases",2013,19.799890762001557
+"CHN","China","admin0","Clinical Cases","Cases",2014,5.728074935639956
+"CHN","China","admin0","Clinical Cases","Cases",2015,0.8702074321167467
+"CHN","China","admin0","Clinical Cases","Cases",2016,0
+"CHN","China","admin0","Clinical Cases","Cases",2017,0
+"CHN","China","admin0","Clinical Cases","Cases",2018,0
+"CHN","China","admin0","Clinical Cases","Cases",2019,0
+"CHN","China","admin0","Clinical Cases","Cases",2020,0
+"CHN","China","admin0","Deaths","Deaths",2010,11.305581888934265
+"CHN","China","admin0","Deaths","Deaths",2011,3.926349859498668
+"CHN","China","admin0","Deaths","Deaths",2012,0.12680151135933604
+"CHN","China","admin0","Deaths","Deaths",2013,0.06310965023762809
+"CHN","China","admin0","Deaths","Deaths",2014,0.014544973791907946
+"CHN","China","admin0","Deaths","Deaths",2015,0.001370014724613644
+"CHN","China","admin0","Deaths","Deaths",2016,0
+"CHN","China","admin0","Deaths","Deaths",2017,0
+"CHN","China","admin0","Deaths","Deaths",2018,0
+"CHN","China","admin0","Deaths","Deaths",2019,0
+"CHN","China","admin0","Deaths","Deaths",2020,0
+"COL","Colombia","admin0","Clinical Cases","Cases",2010,64997.159309193325
+"COL","Colombia","admin0","Clinical Cases","Cases",2011,29758.772324768317
+"COL","Colombia","admin0","Clinical Cases","Cases",2012,48599.83014536925
+"COL","Colombia","admin0","Clinical Cases","Cases",2013,32708.456176622087
+"COL","Colombia","admin0","Clinical Cases","Cases",2014,36524.81285953052
+"COL","Colombia","admin0","Clinical Cases","Cases",2015,50432.115941108976
+"COL","Colombia","admin0","Clinical Cases","Cases",2016,91006.94586605969
+"COL","Colombia","admin0","Clinical Cases","Cases",2017,55856.765740153845
+"COL","Colombia","admin0","Clinical Cases","Cases",2018,57089.585984588084
+"COL","Colombia","admin0","Clinical Cases","Cases",2019,75171.6043626835
+"COL","Colombia","admin0","Clinical Cases","Cases",2020,74953.32586400429
+"COL","Colombia","admin0","Deaths","Deaths",2010,200.3732126629215
+"COL","Colombia","admin0","Deaths","Deaths",2011,98.97485625109391
+"COL","Colombia","admin0","Deaths","Deaths",2012,155.00946888703
+"COL","Colombia","admin0","Deaths","Deaths",2013,113.68425683507685
+"COL","Colombia","admin0","Deaths","Deaths",2014,116.61912707997793
+"COL","Colombia","admin0","Deaths","Deaths",2015,147.24429552361875
+"COL","Colombia","admin0","Deaths","Deaths",2016,267.65922355849955
+"COL","Colombia","admin0","Deaths","Deaths",2017,165.970339991418
+"COL","Colombia","admin0","Deaths","Deaths",2018,186.69027968980237
+"COL","Colombia","admin0","Deaths","Deaths",2019,126.82189439990354
+"COL","Colombia","admin0","Deaths","Deaths",2020,142.66843509891785
+"COM","Comoros","admin0","Clinical Cases","Cases",2010,166218.94523770316
+"COM","Comoros","admin0","Clinical Cases","Cases",2011,131795.85511927708
+"COM","Comoros","admin0","Clinical Cases","Cases",2012,158042.1272164508
+"COM","Comoros","admin0","Clinical Cases","Cases",2013,141125.753635329
+"COM","Comoros","admin0","Clinical Cases","Cases",2014,6029.275309451969
+"COM","Comoros","admin0","Clinical Cases","Cases",2015,5454.362146488339
+"COM","Comoros","admin0","Clinical Cases","Cases",2016,3903.9575287686553
+"COM","Comoros","admin0","Clinical Cases","Cases",2017,10486.161349506825
+"COM","Comoros","admin0","Clinical Cases","Cases",2018,41855.57639667707
+"COM","Comoros","admin0","Clinical Cases","Cases",2019,45053.54514728174
+"COM","Comoros","admin0","Clinical Cases","Cases",2020,11729.496768460851
+"COM","Comoros","admin0","Deaths","Deaths",2010,900.4867755423478
+"COM","Comoros","admin0","Deaths","Deaths",2011,677.5402103848462
+"COM","Comoros","admin0","Deaths","Deaths",2012,750.429111745067
+"COM","Comoros","admin0","Deaths","Deaths",2013,606.9086088639834
+"COM","Comoros","admin0","Deaths","Deaths",2014,22.71933914968588
+"COM","Comoros","admin0","Deaths","Deaths",2015,18.756170924024396
+"COM","Comoros","admin0","Deaths","Deaths",2016,12.399902408704541
+"COM","Comoros","admin0","Deaths","Deaths",2017,32.95011657982505
+"COM","Comoros","admin0","Deaths","Deaths",2018,125.66825119038347
+"COM","Comoros","admin0","Deaths","Deaths",2019,78.22072252219442
+"COM","Comoros","admin0","Deaths","Deaths",2020,29.344410247375137
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2010,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2011,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2012,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2013,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2014,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2015,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2016,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2017,0
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2018,14.658403801528644
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2019,8.421051477669145
+"CRI","Costa Rica","admin0","Clinical Cases","Cases",2020,2.3778858518496566
+"CRI","Costa Rica","admin0","Deaths","Deaths",2010,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2011,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2012,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2013,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2014,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2015,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2016,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2017,0
+"CRI","Costa Rica","admin0","Deaths","Deaths",2018,0.22135628465972595
+"CRI","Costa Rica","admin0","Deaths","Deaths",2019,0.2103161847584655
+"CRI","Costa Rica","admin0","Deaths","Deaths",2020,0.2009028265364527
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2010,10522054.399195915
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2011,10194121.164309215
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2012,8661619.901913337
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2013,6807266.597875908
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2014,6274802.904974856
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2015,5983319.090994882
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2016,6202741.911472095
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2017,6557558.390609123
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2018,7019449.862891999
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2019,7405348.431636135
+"CIV","Côte d'Ivoire","admin0","Clinical Cases","Cases",2020,7706686.462872324
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2010,45661.10753032829
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2011,43443.37706998968
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2012,35254.217876761606
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2013,25985.739137938435
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2014,22147.68252207547
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2015,20112.153337827946
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2016,19679.674770225494
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2017,19762.97580099897
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2018,21298.273200527747
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2019,24555.112976354805
+"CIV","Côte d'Ivoire","admin0","Deaths","Deaths",2020,28674.591174033423
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2010,26246149.760558814
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2011,25389850.03228362
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2012,24073134.073580578
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2013,22675733.192222178
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2014,21988188.749955807
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2015,22486159.298958603
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2016,23837786.76658466
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2017,25576643.36995027
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2018,27133948.077007283
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2019,28058418.778991323
+"COD","Democratic Republic of the Congo","admin0","Clinical Cases","Cases",2020,28558794.4381999
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2010,124411.42240807701
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2011,113499.0127445753
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2012,100943.32401795659
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2013,89929.90045003085
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2014,81786.77884853016
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2015,79171.02725661758
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2016,80738.14279448976
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2017,85279.72208618606
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2018,80392.62030692895
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2019,83683.20126519751
+"COD","Democratic Republic of the Congo","admin0","Deaths","Deaths",2020,93453.28516507904
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2010,2939.1610211048055
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2011,107.45943220200884
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2012,64.01831783790338
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2013,3812.0809731705326
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2014,33156.42375818606
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2015,32227.0550040415
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2016,43439.66391609576
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2017,36652.58280629273
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2018,61929.872333320454
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2019,126649.69944819051
+"DJI","Djibouti","admin0","Clinical Cases","Cases",2020,136736.09578227025
+"DJI","Djibouti","admin0","Deaths","Deaths",2010,15.50055588131131
+"DJI","Djibouti","admin0","Deaths","Deaths",2011,0.5069117149574548
+"DJI","Djibouti","admin0","Deaths","Deaths",2012,0.2520234791658759
+"DJI","Djibouti","admin0","Deaths","Deaths",2013,14.584432036626309
+"DJI","Djibouti","admin0","Deaths","Deaths",2014,112.33547119109191
+"DJI","Djibouti","admin0","Deaths","Deaths",2015,93.3509902864386
+"DJI","Djibouti","admin0","Deaths","Deaths",2016,120.37256178784251
+"DJI","Djibouti","admin0","Deaths","Deaths",2017,95.23540543173156
+"DJI","Djibouti","admin0","Deaths","Deaths",2018,212.10612860582037
+"DJI","Djibouti","admin0","Deaths","Deaths",2019,166.42033241894572
+"DJI","Djibouti","admin0","Deaths","Deaths",2020,420.50066802738786
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2010,5139.4287511451685
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2011,3431.006189936403
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2012,1978.9548235424434
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2013,1007.807360086003
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2014,998.1498658153417
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2015,1299.0456239765952
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2016,1426.2019131173474
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2017,700.238406122627
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2018,918.32019034598
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2019,2623.33251739612
+"DOM","Dominican Republic","admin0","Clinical Cases","Cases",2020,1751.4137718719503
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2010,31.26369937673298
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2011,21.919594980323716
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2012,12.946584049657103
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2013,5.869097603937892
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2014,5.713667203183324
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2015,7.226482336132945
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2016,7.599957398791436
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2017,3.296210994460159
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2018,4.162145486588509
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2019,9.366386651078471
+"DOM","Dominican Republic","admin0","Deaths","Deaths",2020,6.519052158956322
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2010,688.5861678080569
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2011,883.9376067139212
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2012,211.59974539534971
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2013,384.17585156474536
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2014,104.19097950147808
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2015,446.566556972659
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2016,964.8357821373886
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2017,780.6149396760901
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2018,366.52510903564905
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2019,513.9563449176768
+"ECU","Ecuador","admin0","Clinical Cases","Cases",2020,541.1160422101628
+"ECU","Ecuador","admin0","Deaths","Deaths",2010,2.4171627495715917
+"ECU","Ecuador","admin0","Deaths","Deaths",2011,3.1248134714626143
+"ECU","Ecuador","admin0","Deaths","Deaths",2012,0.6553546075811915
+"ECU","Ecuador","admin0","Deaths","Deaths",2013,1.6079649454761011
+"ECU","Ecuador","admin0","Deaths","Deaths",2014,0.33703445322615183
+"ECU","Ecuador","admin0","Deaths","Deaths",2015,1.4364171899319733
+"ECU","Ecuador","admin0","Deaths","Deaths",2016,3.094083295121718
+"ECU","Ecuador","admin0","Deaths","Deaths",2017,2.359995779773077
+"ECU","Ecuador","admin0","Deaths","Deaths",2018,1.1960379661039657
+"ECU","Ecuador","admin0","Deaths","Deaths",2019,0.5405735744367045
+"ECU","Ecuador","admin0","Deaths","Deaths",2020,0.7376381702751761
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2010,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2011,3.0834704268894533
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2012,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2013,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2014,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2015,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2016,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2017,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2018,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2019,0
+"SLV","El Salvador","admin0","Clinical Cases","Cases",2020,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2010,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2011,0.6274590008476162
+"SLV","El Salvador","admin0","Deaths","Deaths",2012,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2013,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2014,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2015,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2016,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2017,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2018,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2019,0
+"SLV","El Salvador","admin0","Deaths","Deaths",2020,0
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2010,325160.87909521797
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2011,335994.06117434276
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2012,369338.0211874836
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2013,406162.67953499884
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2014,417818.41408298933
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2015,418243.33318235807
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2016,414381.0561886617
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2017,395869.60685557016
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2018,365991.73226510576
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2019,348945.4368054012
+"GNQ","Equatorial Guinea","admin0","Clinical Cases","Cases",2020,352227.0182483698
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2010,1054.6644560231857
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2011,1068.6336567844755
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2012,1164.1896440677344
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2013,1231.8949019006113
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2014,1214.6795033270507
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2015,1236.216025180875
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2016,1149.0022047518496
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2017,1051.358524465578
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2018,964.3241677441811
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2019,937.3086075767409
+"GNQ","Equatorial Guinea","admin0","Deaths","Deaths",2020,992.7783573064717
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2010,64238.807149719396
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2011,84868.26025329376
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2012,49007.39598484552
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2013,34700.209702669075
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2014,91280.75521720524
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2015,60010.776877789285
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2016,82920.29638801092
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2017,86564.2944101125
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2018,80085.00025009864
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2019,172920.5602473654
+"ERI","Eritrea","admin0","Clinical Cases","Cases",2020,151917.2712205156
+"ERI","Eritrea","admin0","Deaths","Deaths",2010,216.95135958138047
+"ERI","Eritrea","admin0","Deaths","Deaths",2011,286.4009526438339
+"ERI","Eritrea","admin0","Deaths","Deaths",2012,152.61268725190303
+"ERI","Eritrea","admin0","Deaths","Deaths",2013,99.51457604243242
+"ERI","Eritrea","admin0","Deaths","Deaths",2014,233.18418739530821
+"ERI","Eritrea","admin0","Deaths","Deaths",2015,146.75529848150697
+"ERI","Eritrea","admin0","Deaths","Deaths",2016,199.03969720070273
+"ERI","Eritrea","admin0","Deaths","Deaths",2017,208.5472661055216
+"ERI","Eritrea","admin0","Deaths","Deaths",2018,191.55818705590448
+"ERI","Eritrea","admin0","Deaths","Deaths",2019,331.6732729670079
+"ERI","Eritrea","admin0","Deaths","Deaths",2020,302.12895495427415
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2010,12517813.795433434
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2011,9487332.817292241
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2012,10216508.64289642
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2013,12064128.535729017
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2014,6103199.587537129
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2015,6263329.385428401
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2016,4972872.375355555
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2017,4309405.428444534
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2018,3537428.9975593076
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2019,2817189.6973799434
+"ETH","Ethiopia","admin0","Clinical Cases","Cases",2020,5091668.704241259
+"ETH","Ethiopia","admin0","Deaths","Deaths",2010,28107.56583431021
+"ETH","Ethiopia","admin0","Deaths","Deaths",2011,19595.118753248316
+"ETH","Ethiopia","admin0","Deaths","Deaths",2012,19977.365357800867
+"ETH","Ethiopia","admin0","Deaths","Deaths",2013,21289.109700795685
+"ETH","Ethiopia","admin0","Deaths","Deaths",2014,10564.136097259763
+"ETH","Ethiopia","admin0","Deaths","Deaths",2015,10353.208130719144
+"ETH","Ethiopia","admin0","Deaths","Deaths",2016,8099.339678293008
+"ETH","Ethiopia","admin0","Deaths","Deaths",2017,7092.4065667936275
+"ETH","Ethiopia","admin0","Deaths","Deaths",2018,5896.992326983851
+"ETH","Ethiopia","admin0","Deaths","Deaths",2019,4112.145426225576
+"ETH","Ethiopia","admin0","Deaths","Deaths",2020,8630.77165643914
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2010,1887.4566133927567
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2011,1316.7875261169654
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2012,912.0934217954131
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2013,1339.8250113771708
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2014,512.0207894606133
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2015,199.35258224177852
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2016,143.68731240493773
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2017,163.04047479682615
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2018,622.1494869776628
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2019,34.00141086726293
+"GUF","French Guiana","admin0","Clinical Cases","Cases",2020,8.022420230490129
+"GUF","French Guiana","admin0","Deaths","Deaths",2010,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2011,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2012,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2013,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2014,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2015,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2016,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2017,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2018,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2019,0
+"GUF","French Guiana","admin0","Deaths","Deaths",2020,0
+"GAB","Gabon","admin0","Clinical Cases","Cases",2010,258431.8846510953
+"GAB","Gabon","admin0","Clinical Cases","Cases",2011,307238.9705344555
+"GAB","Gabon","admin0","Clinical Cases","Cases",2012,352008.8747203871
+"GAB","Gabon","admin0","Clinical Cases","Cases",2013,382688.645821333
+"GAB","Gabon","admin0","Clinical Cases","Cases",2014,419973.3856144233
+"GAB","Gabon","admin0","Clinical Cases","Cases",2015,417730.68237104226
+"GAB","Gabon","admin0","Clinical Cases","Cases",2016,385473.7008523283
+"GAB","Gabon","admin0","Clinical Cases","Cases",2017,372641.61268696876
+"GAB","Gabon","admin0","Clinical Cases","Cases",2018,362135.52495245886
+"GAB","Gabon","admin0","Clinical Cases","Cases",2019,362958.14227202814
+"GAB","Gabon","admin0","Clinical Cases","Cases",2020,384088.4083501249
+"GAB","Gabon","admin0","Deaths","Deaths",2010,648.748547542483
+"GAB","Gabon","admin0","Deaths","Deaths",2011,766.6816779178208
+"GAB","Gabon","admin0","Deaths","Deaths",2012,867.0496054395173
+"GAB","Gabon","admin0","Deaths","Deaths",2013,845.0000470422893
+"GAB","Gabon","admin0","Deaths","Deaths",2014,853.959112384034
+"GAB","Gabon","admin0","Deaths","Deaths",2015,740.8926628897658
+"GAB","Gabon","admin0","Deaths","Deaths",2016,669.828882248778
+"GAB","Gabon","admin0","Deaths","Deaths",2017,625.3900340743152
+"GAB","Gabon","admin0","Deaths","Deaths",2018,587.3206683327004
+"GAB","Gabon","admin0","Deaths","Deaths",2019,573.5746143098628
+"GAB","Gabon","admin0","Deaths","Deaths",2020,728.7435694232296
+"GMB","Gambia","admin0","Clinical Cases","Cases",2010,420741.62995267776
+"GMB","Gambia","admin0","Clinical Cases","Cases",2011,723255.3011678832
+"GMB","Gambia","admin0","Clinical Cases","Cases",2012,845145.0781930172
+"GMB","Gambia","admin0","Clinical Cases","Cases",2013,738236.0550482897
+"GMB","Gambia","admin0","Clinical Cases","Cases",2014,473841.9299955211
+"GMB","Gambia","admin0","Clinical Cases","Cases",2015,642559.472583067
+"GMB","Gambia","admin0","Clinical Cases","Cases",2016,407742.47387149895
+"GMB","Gambia","admin0","Clinical Cases","Cases",2017,201741.89053998594
+"GMB","Gambia","admin0","Clinical Cases","Cases",2018,224293.17093820294
+"GMB","Gambia","admin0","Clinical Cases","Cases",2019,139812.3949500808
+"GMB","Gambia","admin0","Clinical Cases","Cases",2020,217407.75702182227
+"GMB","Gambia","admin0","Deaths","Deaths",2010,1222.211446029522
+"GMB","Gambia","admin0","Deaths","Deaths",2011,2197.632077009631
+"GMB","Gambia","admin0","Deaths","Deaths",2012,2251.9284727151385
+"GMB","Gambia","admin0","Deaths","Deaths",2013,1882.608872070074
+"GMB","Gambia","admin0","Deaths","Deaths",2014,1137.9775858985986
+"GMB","Gambia","admin0","Deaths","Deaths",2015,1395.848377230043
+"GMB","Gambia","admin0","Deaths","Deaths",2016,932.4519447197689
+"GMB","Gambia","admin0","Deaths","Deaths",2017,470.337348403767
+"GMB","Gambia","admin0","Deaths","Deaths",2018,518.0364587546659
+"GMB","Gambia","admin0","Deaths","Deaths",2019,284.3805971556984
+"GMB","Gambia","admin0","Deaths","Deaths",2020,462.26685661909306
+"GEO","Georgia","admin0","Clinical Cases","Cases",2010,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2011,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2012,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2013,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2014,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2015,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2016,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2017,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2018,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2019,0
+"GEO","Georgia","admin0","Clinical Cases","Cases",2020,0
+"GEO","Georgia","admin0","Deaths","Deaths",2010,0
+"GEO","Georgia","admin0","Deaths","Deaths",2011,0
+"GEO","Georgia","admin0","Deaths","Deaths",2012,0
+"GEO","Georgia","admin0","Deaths","Deaths",2013,0
+"GEO","Georgia","admin0","Deaths","Deaths",2014,0
+"GEO","Georgia","admin0","Deaths","Deaths",2015,0
+"GEO","Georgia","admin0","Deaths","Deaths",2016,0
+"GEO","Georgia","admin0","Deaths","Deaths",2017,0
+"GEO","Georgia","admin0","Deaths","Deaths",2018,0
+"GEO","Georgia","admin0","Deaths","Deaths",2019,0
+"GEO","Georgia","admin0","Deaths","Deaths",2020,0
+"GHA","Ghana","admin0","Clinical Cases","Cases",2010,9405486.29164067
+"GHA","Ghana","admin0","Clinical Cases","Cases",2011,9787025.19635728
+"GHA","Ghana","admin0","Clinical Cases","Cases",2012,9736204.621509774
+"GHA","Ghana","admin0","Clinical Cases","Cases",2013,9249756.888512202
+"GHA","Ghana","admin0","Clinical Cases","Cases",2014,8625975.007439086
+"GHA","Ghana","admin0","Clinical Cases","Cases",2015,7893928.989886432
+"GHA","Ghana","admin0","Clinical Cases","Cases",2016,6993655.294949834
+"GHA","Ghana","admin0","Clinical Cases","Cases",2017,6219444.2740614
+"GHA","Ghana","admin0","Clinical Cases","Cases",2018,5716219.863200203
+"GHA","Ghana","admin0","Clinical Cases","Cases",2019,5679619.12323439
+"GHA","Ghana","admin0","Clinical Cases","Cases",2020,6717176.523983786
+"GHA","Ghana","admin0","Deaths","Deaths",2010,34237.13377379698
+"GHA","Ghana","admin0","Deaths","Deaths",2011,31054.988184722995
+"GHA","Ghana","admin0","Deaths","Deaths",2012,28860.25816819196
+"GHA","Ghana","admin0","Deaths","Deaths",2013,26336.86477729896
+"GHA","Ghana","admin0","Deaths","Deaths",2014,23917.041751390763
+"GHA","Ghana","admin0","Deaths","Deaths",2015,21226.443649922665
+"GHA","Ghana","admin0","Deaths","Deaths",2016,18665.896680512913
+"GHA","Ghana","admin0","Deaths","Deaths",2017,16181.940731265075
+"GHA","Ghana","admin0","Deaths","Deaths",2018,15359.988417640416
+"GHA","Ghana","admin0","Deaths","Deaths",2019,14851.81442968626
+"GHA","Ghana","admin0","Deaths","Deaths",2020,18200.717983433628
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2010,90.3522770443607
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2011,190.30265066024867
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2012,160.5470562767718
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2013,285.63437138855124
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2014,115.71373140494379
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2015,120.69475566998481
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2016,18.549408658659267
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2017,21.812582742691227
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2018,19.312924689165516
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2019,0
+"GTM","Guatemala","admin0","Clinical Cases","Cases",2020,0
+"GTM","Guatemala","admin0","Deaths","Deaths",2010,0.3974348335069507
+"GTM","Guatemala","admin0","Deaths","Deaths",2011,0.9545783927554647
+"GTM","Guatemala","admin0","Deaths","Deaths",2012,0.8071190300439229
+"GTM","Guatemala","admin0","Deaths","Deaths",2013,1.4465279848656203
+"GTM","Guatemala","admin0","Deaths","Deaths",2014,0.5613277080947784
+"GTM","Guatemala","admin0","Deaths","Deaths",2015,0.5021354020801256
+"GTM","Guatemala","admin0","Deaths","Deaths",2016,0.08138242002959688
+"GTM","Guatemala","admin0","Deaths","Deaths",2017,0.08583974672145353
+"GTM","Guatemala","admin0","Deaths","Deaths",2018,0.05394957182557442
+"GTM","Guatemala","admin0","Deaths","Deaths",2019,0
+"GTM","Guatemala","admin0","Deaths","Deaths",2020,0
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2010,196337.87867420408
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2011,206707.7061038906
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2012,201161.80741101492
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2013,190301.08656964105
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2014,165918.19364668592
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2015,140540.23042060644
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2016,120521.05745044639
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2017,107476.82495929893
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2018,109431.21382200113
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2019,125367.24059865777
+"GNB","Guinea-Bissau","admin0","Clinical Cases","Cases",2020,178134.29753180328
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2010,412.4312368178544
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2011,438.86902865746896
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2012,452.44788217911395
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2013,418.9011933761828
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2014,349.4643202529438
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2015,308.45222434868214
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2016,258.6630866017323
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2017,223.95470330389435
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2018,229.93064673011457
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2019,249.16180762152243
+"GNB","Guinea-Bissau","admin0","Deaths","Deaths",2020,439.0927820292348
+"GIN","Guinea","admin0","Clinical Cases","Cases",2010,4047857.716835973
+"GIN","Guinea","admin0","Clinical Cases","Cases",2011,4310777.550971486
+"GIN","Guinea","admin0","Clinical Cases","Cases",2012,4508246.356654778
+"GIN","Guinea","admin0","Clinical Cases","Cases",2013,4467558.466558683
+"GIN","Guinea","admin0","Clinical Cases","Cases",2014,4410937.948129182
+"GIN","Guinea","admin0","Clinical Cases","Cases",2015,4337179.023331669
+"GIN","Guinea","admin0","Clinical Cases","Cases",2016,4200772.981487781
+"GIN","Guinea","admin0","Clinical Cases","Cases",2017,4227504.60755995
+"GIN","Guinea","admin0","Clinical Cases","Cases",2018,4285870.024682751
+"GIN","Guinea","admin0","Clinical Cases","Cases",2019,4130504.680379685
+"GIN","Guinea","admin0","Clinical Cases","Cases",2020,4136451.7312859157
+"GIN","Guinea","admin0","Deaths","Deaths",2010,12649.083159323685
+"GIN","Guinea","admin0","Deaths","Deaths",2011,12758.950955303178
+"GIN","Guinea","admin0","Deaths","Deaths",2012,12811.187982303785
+"GIN","Guinea","admin0","Deaths","Deaths",2013,12483.951629867177
+"GIN","Guinea","admin0","Deaths","Deaths",2014,11722.47476290743
+"GIN","Guinea","admin0","Deaths","Deaths",2015,11047.330224671057
+"GIN","Guinea","admin0","Deaths","Deaths",2016,10365.91106143976
+"GIN","Guinea","admin0","Deaths","Deaths",2017,10433.461946951786
+"GIN","Guinea","admin0","Deaths","Deaths",2018,11060.668710269629
+"GIN","Guinea","admin0","Deaths","Deaths",2019,10791.135467414224
+"GIN","Guinea","admin0","Deaths","Deaths",2020,12077.848581291642
+"GUY","Guyana","admin0","Clinical Cases","Cases",2010,25292.033711914653
+"GUY","Guyana","admin0","Clinical Cases","Cases",2011,40950.82691517021
+"GUY","Guyana","admin0","Clinical Cases","Cases",2012,40313.590716164996
+"GUY","Guyana","admin0","Clinical Cases","Cases",2013,42739.21091048128
+"GUY","Guyana","admin0","Clinical Cases","Cases",2014,12337.461881838277
+"GUY","Guyana","admin0","Clinical Cases","Cases",2015,10537.80247876072
+"GUY","Guyana","admin0","Clinical Cases","Cases",2016,11426.318294494342
+"GUY","Guyana","admin0","Clinical Cases","Cases",2017,16149.134686278594
+"GUY","Guyana","admin0","Clinical Cases","Cases",2018,18505.832076291954
+"GUY","Guyana","admin0","Clinical Cases","Cases",2019,17327.314445524586
+"GUY","Guyana","admin0","Clinical Cases","Cases",2020,16124.037525991449
+"GUY","Guyana","admin0","Deaths","Deaths",2010,72.45743947945448
+"GUY","Guyana","admin0","Deaths","Deaths",2011,125.95369713025883
+"GUY","Guyana","admin0","Deaths","Deaths",2012,119.58193754111319
+"GUY","Guyana","admin0","Deaths","Deaths",2013,130.7432314907175
+"GUY","Guyana","admin0","Deaths","Deaths",2014,35.87400111845722
+"GUY","Guyana","admin0","Deaths","Deaths",2015,30.89044252501532
+"GUY","Guyana","admin0","Deaths","Deaths",2016,33.34465500276633
+"GUY","Guyana","admin0","Deaths","Deaths",2017,44.951680681151174
+"GUY","Guyana","admin0","Deaths","Deaths",2018,63.59588074962491
+"GUY","Guyana","admin0","Deaths","Deaths",2019,39.31549849972551
+"GUY","Guyana","admin0","Deaths","Deaths",2020,40.744542882046396
+"HTI","Haiti","admin0","Clinical Cases","Cases",2010,395239.3514865965
+"HTI","Haiti","admin0","Clinical Cases","Cases",2011,162826.81631897806
+"HTI","Haiti","admin0","Clinical Cases","Cases",2012,134793.682064027
+"HTI","Haiti","admin0","Clinical Cases","Cases",2013,99836.19288714218
+"HTI","Haiti","admin0","Clinical Cases","Cases",2014,69468.53642842227
+"HTI","Haiti","admin0","Clinical Cases","Cases",2015,71415.9253110403
+"HTI","Haiti","admin0","Clinical Cases","Cases",2016,73305.99577205836
+"HTI","Haiti","admin0","Clinical Cases","Cases",2017,70865.19389428223
+"HTI","Haiti","admin0","Clinical Cases","Cases",2018,33448.37127243946
+"HTI","Haiti","admin0","Clinical Cases","Cases",2019,40211.79724466631
+"HTI","Haiti","admin0","Clinical Cases","Cases",2020,84217.9202902249
+"HTI","Haiti","admin0","Deaths","Deaths",2010,2887.539961431805
+"HTI","Haiti","admin0","Deaths","Deaths",2011,1310.8765430583262
+"HTI","Haiti","admin0","Deaths","Deaths",2012,1062.217494963767
+"HTI","Haiti","admin0","Deaths","Deaths",2013,782.4918821252213
+"HTI","Haiti","admin0","Deaths","Deaths",2014,491.8728164029339
+"HTI","Haiti","admin0","Deaths","Deaths",2015,468.10828281134263
+"HTI","Haiti","admin0","Deaths","Deaths",2016,485.5593778893287
+"HTI","Haiti","admin0","Deaths","Deaths",2017,441.2266762334403
+"HTI","Haiti","admin0","Deaths","Deaths",2018,201.65714020260663
+"HTI","Haiti","admin0","Deaths","Deaths",2019,194.59325898443893
+"HTI","Haiti","admin0","Deaths","Deaths",2020,434.3436916648699
+"HND","Honduras","admin0","Clinical Cases","Cases",2010,1819.6217253625239
+"HND","Honduras","admin0","Clinical Cases","Cases",2011,1188.37333910451
+"HND","Honduras","admin0","Clinical Cases","Cases",2012,1158.77528652033
+"HND","Honduras","admin0","Clinical Cases","Cases",2013,2397.9679327229146
+"HND","Honduras","admin0","Clinical Cases","Cases",2014,1165.623412426989
+"HND","Honduras","admin0","Clinical Cases","Cases",2015,1778.8667693771524
+"HND","Honduras","admin0","Clinical Cases","Cases",2016,2453.651428677798
+"HND","Honduras","admin0","Clinical Cases","Cases",2017,278.9082115776701
+"HND","Honduras","admin0","Clinical Cases","Cases",2018,154.89521293866642
+"HND","Honduras","admin0","Clinical Cases","Cases",2019,31.759458261815432
+"HND","Honduras","admin0","Clinical Cases","Cases",2020,452.64957846069706
+"HND","Honduras","admin0","Deaths","Deaths",2010,2.684361269084463
+"HND","Honduras","admin0","Deaths","Deaths",2011,1.8839452459006492
+"HND","Honduras","admin0","Deaths","Deaths",2012,1.8190701465801142
+"HND","Honduras","admin0","Deaths","Deaths",2013,3.509257869149303
+"HND","Honduras","admin0","Deaths","Deaths",2014,1.6977427530933262
+"HND","Honduras","admin0","Deaths","Deaths",2015,2.550820501028356
+"HND","Honduras","admin0","Deaths","Deaths",2016,3.3130660167632136
+"HND","Honduras","admin0","Deaths","Deaths",2017,0.36834028027665544
+"HND","Honduras","admin0","Deaths","Deaths",2018,0.2196183359935693
+"HND","Honduras","admin0","Deaths","Deaths",2019,0.03036066827925477
+"HND","Honduras","admin0","Deaths","Deaths",2020,0.4540172977042291
+"IND","India","admin0","Clinical Cases","Cases",2010,9980858.77593618
+"IND","India","admin0","Clinical Cases","Cases",2011,8600579.755183432
+"IND","India","admin0","Clinical Cases","Cases",2012,6360865.870107233
+"IND","India","admin0","Clinical Cases","Cases",2013,4688637.881254673
+"IND","India","admin0","Clinical Cases","Cases",2014,6586424.867652156
+"IND","India","admin0","Clinical Cases","Cases",2015,7131907.895651188
+"IND","India","admin0","Clinical Cases","Cases",2016,5087332.076543806
+"IND","India","admin0","Clinical Cases","Cases",2017,2828291.450599953
+"IND","India","admin0","Clinical Cases","Cases",2018,2292673.2939777286
+"IND","India","admin0","Clinical Cases","Cases",2019,1943639.2666308433
+"IND","India","admin0","Clinical Cases","Cases",2020,2860339.4528454323
+"IND","India","admin0","Deaths","Deaths",2010,68122.95535874106
+"IND","India","admin0","Deaths","Deaths",2011,59282.838679065244
+"IND","India","admin0","Deaths","Deaths",2012,48615.55472967965
+"IND","India","admin0","Deaths","Deaths",2013,37456.86564791279
+"IND","India","admin0","Deaths","Deaths",2014,59835.39681209315
+"IND","India","admin0","Deaths","Deaths",2015,69793.70855550305
+"IND","India","admin0","Deaths","Deaths",2016,47947.77877519791
+"IND","India","admin0","Deaths","Deaths",2017,26487.34003795579
+"IND","India","admin0","Deaths","Deaths",2018,23421.773097086956
+"IND","India","admin0","Deaths","Deaths",2019,16152.944472803933
+"IND","India","admin0","Deaths","Deaths",2020,24256.6407212786
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2010,726974.5110910292
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2011,609431.2144902461
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2012,602897.5660357935
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2013,497905.05792302726
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2014,365054.6880870482
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2015,365258.93538527424
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2016,376749.7066665485
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2017,462283.2856255572
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2018,403936.4445201713
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2019,496412.8981457414
+"IDN","Indonesia","admin0","Clinical Cases","Cases",2020,552732.9187893996
+"IDN","Indonesia","admin0","Deaths","Deaths",2010,3602.951055528626
+"IDN","Indonesia","admin0","Deaths","Deaths",2011,2743.8044776488696
+"IDN","Indonesia","admin0","Deaths","Deaths",2012,2283.881124461358
+"IDN","Indonesia","admin0","Deaths","Deaths",2013,1634.6201251643868
+"IDN","Indonesia","admin0","Deaths","Deaths",2014,1101.1098798073865
+"IDN","Indonesia","admin0","Deaths","Deaths",2015,992.9746458261287
+"IDN","Indonesia","admin0","Deaths","Deaths",2016,1136.4576763442392
+"IDN","Indonesia","admin0","Deaths","Deaths",2017,1162.924388319715
+"IDN","Indonesia","admin0","Deaths","Deaths",2018,916.4637864825918
+"IDN","Indonesia","admin0","Deaths","Deaths",2019,951.8265535653985
+"IDN","Indonesia","admin0","Deaths","Deaths",2020,2146.314782874987
+"IRN","Iran","admin0","Clinical Cases","Cases",2010,153.93574184741968
+"IRN","Iran","admin0","Clinical Cases","Cases",2011,157.04249083352758
+"IRN","Iran","admin0","Clinical Cases","Cases",2012,45.83440006680723
+"IRN","Iran","admin0","Clinical Cases","Cases",2013,75.12254451639299
+"IRN","Iran","admin0","Clinical Cases","Cases",2014,21.21243601016584
+"IRN","Iran","admin0","Clinical Cases","Cases",2015,8.091545509752313
+"IRN","Iran","admin0","Clinical Cases","Cases",2016,0
+"IRN","Iran","admin0","Clinical Cases","Cases",2017,2.489301114465438
+"IRN","Iran","admin0","Clinical Cases","Cases",2018,3.8228536905548114
+"IRN","Iran","admin0","Clinical Cases","Cases",2019,14.12847506130643
+"IRN","Iran","admin0","Clinical Cases","Cases",2020,28.755779261276704
+"IRN","Iran","admin0","Deaths","Deaths",2010,0.6706499569140288
+"IRN","Iran","admin0","Deaths","Deaths",2011,0.8311277937695334
+"IRN","Iran","admin0","Deaths","Deaths",2012,0.2498262094763793
+"IRN","Iran","admin0","Deaths","Deaths",2013,0.39480922366581384
+"IRN","Iran","admin0","Deaths","Deaths",2014,0.09742476820099437
+"IRN","Iran","admin0","Deaths","Deaths",2015,0.03657812073236712
+"IRN","Iran","admin0","Deaths","Deaths",2016,0
+"IRN","Iran","admin0","Deaths","Deaths",2017,0.005967224147819614
+"IRN","Iran","admin0","Deaths","Deaths",2018,0.015496793038019369
+"IRN","Iran","admin0","Deaths","Deaths",2019,0.014658909310494683
+"IRN","Iran","admin0","Deaths","Deaths",2020,0.029617880949293955
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2010,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2011,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2012,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2013,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2014,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2015,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2016,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2017,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2018,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2019,0
+"IRQ","Iraq","admin0","Clinical Cases","Cases",2020,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2010,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2011,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2012,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2013,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2014,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2015,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2016,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2017,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2018,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2019,0
+"IRQ","Iraq","admin0","Deaths","Deaths",2020,0
+"KEN","Kenya","admin0","Clinical Cases","Cases",2010,2589925.875596843
+"KEN","Kenya","admin0","Clinical Cases","Cases",2011,2728763.873382278
+"KEN","Kenya","admin0","Clinical Cases","Cases",2012,2915077.985119782
+"KEN","Kenya","admin0","Clinical Cases","Cases",2013,3091151.3212560834
+"KEN","Kenya","admin0","Clinical Cases","Cases",2014,3131291.1740722484
+"KEN","Kenya","admin0","Clinical Cases","Cases",2015,3107529.82034066
+"KEN","Kenya","admin0","Clinical Cases","Cases",2016,3041854.2240081853
+"KEN","Kenya","admin0","Clinical Cases","Cases",2017,2941807.106971606
+"KEN","Kenya","admin0","Clinical Cases","Cases",2018,2865254.2942621694
+"KEN","Kenya","admin0","Clinical Cases","Cases",2019,2758750.7535415883
+"KEN","Kenya","admin0","Clinical Cases","Cases",2020,2474463.8152141217
+"KEN","Kenya","admin0","Deaths","Deaths",2010,3601.525417564114
+"KEN","Kenya","admin0","Deaths","Deaths",2011,1973.0010608449556
+"KEN","Kenya","admin0","Deaths","Deaths",2012,1949.9128067340228
+"KEN","Kenya","admin0","Deaths","Deaths",2013,3818.2338218151945
+"KEN","Kenya","admin0","Deaths","Deaths",2014,4888.616922445098
+"KEN","Kenya","admin0","Deaths","Deaths",2015,4974.832186657709
+"KEN","Kenya","admin0","Deaths","Deaths",2016,5022.160757174484
+"KEN","Kenya","admin0","Deaths","Deaths",2017,4668.666129383955
+"KEN","Kenya","admin0","Deaths","Deaths",2018,4583.627978530931
+"KEN","Kenya","admin0","Deaths","Deaths",2019,4328.2365668904595
+"KEN","Kenya","admin0","Deaths","Deaths",2020,4571.641247953713
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2010,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2011,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2012,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2013,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2014,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2015,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2016,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2017,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2018,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2019,0
+"KGZ","Kyrgyzstan","admin0","Clinical Cases","Cases",2020,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2010,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2011,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2012,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2013,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2014,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2015,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2016,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2017,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2018,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2019,0
+"KGZ","Kyrgyzstan","admin0","Deaths","Deaths",2020,0
+"LAO","Laos","admin0","Clinical Cases","Cases",2010,54860.569059414236
+"LAO","Laos","admin0","Clinical Cases","Cases",2011,36435.89270855928
+"LAO","Laos","admin0","Clinical Cases","Cases",2012,102612.65298618293
+"LAO","Laos","admin0","Clinical Cases","Cases",2013,64847.380493800134
+"LAO","Laos","admin0","Clinical Cases","Cases",2014,65655.41099417307
+"LAO","Laos","admin0","Clinical Cases","Cases",2015,39297.324685182924
+"LAO","Laos","admin0","Clinical Cases","Cases",2016,12702.753559809385
+"LAO","Laos","admin0","Clinical Cases","Cases",2017,12458.867802835479
+"LAO","Laos","admin0","Clinical Cases","Cases",2018,11645.632493322919
+"LAO","Laos","admin0","Clinical Cases","Cases",2019,5060.097214444929
+"LAO","Laos","admin0","Clinical Cases","Cases",2020,3954.216310939072
+"LAO","Laos","admin0","Deaths","Deaths",2010,227.29311826295074
+"LAO","Laos","admin0","Deaths","Deaths",2011,143.26179179906245
+"LAO","Laos","admin0","Deaths","Deaths",2012,379.41446363430157
+"LAO","Laos","admin0","Deaths","Deaths",2013,237.38714945131724
+"LAO","Laos","admin0","Deaths","Deaths",2014,232.86378901961314
+"LAO","Laos","admin0","Deaths","Deaths",2015,106.11554046142811
+"LAO","Laos","admin0","Deaths","Deaths",2016,32.11281651334003
+"LAO","Laos","admin0","Deaths","Deaths",2017,30.996198953159382
+"LAO","Laos","admin0","Deaths","Deaths",2018,27.482907534226506
+"LAO","Laos","admin0","Deaths","Deaths",2019,10.626888502840393
+"LAO","Laos","admin0","Deaths","Deaths",2020,8.76238402285282
+"LBR","Liberia","admin0","Clinical Cases","Cases",2010,1386929.4819931155
+"LBR","Liberia","admin0","Clinical Cases","Cases",2011,1379388.8540936378
+"LBR","Liberia","admin0","Clinical Cases","Cases",2012,1342170.0567873323
+"LBR","Liberia","admin0","Clinical Cases","Cases",2013,1408710.8741268236
+"LBR","Liberia","admin0","Clinical Cases","Cases",2014,1530037.2336222308
+"LBR","Liberia","admin0","Clinical Cases","Cases",2015,1589191.9780379802
+"LBR","Liberia","admin0","Clinical Cases","Cases",2016,1739310.7589845073
+"LBR","Liberia","admin0","Clinical Cases","Cases",2017,1868031.4265241087
+"LBR","Liberia","admin0","Clinical Cases","Cases",2018,1867203.280586233
+"LBR","Liberia","admin0","Clinical Cases","Cases",2019,1841934.428238244
+"LBR","Liberia","admin0","Clinical Cases","Cases",2020,1826734.1867421195
+"LBR","Liberia","admin0","Deaths","Deaths",2010,5131.650505984554
+"LBR","Liberia","admin0","Deaths","Deaths",2011,5124.754257114764
+"LBR","Liberia","admin0","Deaths","Deaths",2012,4173.913006243816
+"LBR","Liberia","admin0","Deaths","Deaths",2013,3840.8851406799486
+"LBR","Liberia","admin0","Deaths","Deaths",2014,4343.126518293022
+"LBR","Liberia","admin0","Deaths","Deaths",2015,4559.563991165584
+"LBR","Liberia","admin0","Deaths","Deaths",2016,4726.098855627165
+"LBR","Liberia","admin0","Deaths","Deaths",2017,5112.839249272969
+"LBR","Liberia","admin0","Deaths","Deaths",2018,5323.336406679816
+"LBR","Liberia","admin0","Deaths","Deaths",2019,5031.780468410542
+"LBR","Liberia","admin0","Deaths","Deaths",2020,6225.601869034466
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2010,1856685.447004732
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2011,1784304.630264445
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2012,1901300.03224604
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2013,2135698.388542608
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2014,2291050.077563028
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2015,2291219.336269206
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2016,2229913.928979036
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2017,2203906.910043318
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2018,2195430.587850355
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2019,2263759.4396109525
+"MDG","Madagascar","admin0","Clinical Cases","Cases",2020,2587868.6982135205
+"MDG","Madagascar","admin0","Deaths","Deaths",2010,6390.586405561214
+"MDG","Madagascar","admin0","Deaths","Deaths",2011,5880.153734066139
+"MDG","Madagascar","admin0","Deaths","Deaths",2012,6079.276999769937
+"MDG","Madagascar","admin0","Deaths","Deaths",2013,6731.318552383952
+"MDG","Madagascar","admin0","Deaths","Deaths",2014,7037.252085563341
+"MDG","Madagascar","admin0","Deaths","Deaths",2015,6825.5724468652425
+"MDG","Madagascar","admin0","Deaths","Deaths",2016,6527.260810212691
+"MDG","Madagascar","admin0","Deaths","Deaths",2017,6189.540162568969
+"MDG","Madagascar","admin0","Deaths","Deaths",2018,5753.837011707967
+"MDG","Madagascar","admin0","Deaths","Deaths",2019,5983.449814315173
+"MDG","Madagascar","admin0","Deaths","Deaths",2020,6978.094099722583
+"MWI","Malawi","admin0","Clinical Cases","Cases",2010,5452778.800805207
+"MWI","Malawi","admin0","Clinical Cases","Cases",2011,5398526.681652133
+"MWI","Malawi","admin0","Clinical Cases","Cases",2012,4877055.925968649
+"MWI","Malawi","admin0","Clinical Cases","Cases",2013,4504224.058775779
+"MWI","Malawi","admin0","Clinical Cases","Cases",2014,4231259.142735573
+"MWI","Malawi","admin0","Clinical Cases","Cases",2015,4008462.5742659676
+"MWI","Malawi","admin0","Clinical Cases","Cases",2016,3851658.8671488464
+"MWI","Malawi","admin0","Clinical Cases","Cases",2017,3839510.1292738956
+"MWI","Malawi","admin0","Clinical Cases","Cases",2018,3774333.2586975438
+"MWI","Malawi","admin0","Clinical Cases","Cases",2019,3827380.139753993
+"MWI","Malawi","admin0","Clinical Cases","Cases",2020,4368948.682961417
+"MWI","Malawi","admin0","Deaths","Deaths",2010,8511.193208550714
+"MWI","Malawi","admin0","Deaths","Deaths",2011,7138.900076342488
+"MWI","Malawi","admin0","Deaths","Deaths",2012,6462.36951531732
+"MWI","Malawi","admin0","Deaths","Deaths",2013,6881.4918971239595
+"MWI","Malawi","admin0","Deaths","Deaths",2014,6780.327793720907
+"MWI","Malawi","admin0","Deaths","Deaths",2015,6529.093110385139
+"MWI","Malawi","admin0","Deaths","Deaths",2016,6221.550731540549
+"MWI","Malawi","admin0","Deaths","Deaths",2017,5953.709784019962
+"MWI","Malawi","admin0","Deaths","Deaths",2018,5964.692127592324
+"MWI","Malawi","admin0","Deaths","Deaths",2019,5952.298051339947
+"MWI","Malawi","admin0","Deaths","Deaths",2020,7625.038746620309
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2010,2760.4908658358386
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2011,1405.6394359454064
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2012,1392.9249206413535
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2013,2639.1504221076757
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2014,2276.7426035059298
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2015,300.5469510807953
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2016,180.34382916087498
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2017,74.16764222835009
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2018,3.095177354768578
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2019,3.775655876823366
+"MYS","Malaysia","admin0","Clinical Cases","Cases",2020,4.429539674578883
+"MYS","Malaysia","admin0","Deaths","Deaths",2010,10.727924557360277
+"MYS","Malaysia","admin0","Deaths","Deaths",2011,4.735693919523762
+"MYS","Malaysia","admin0","Deaths","Deaths",2012,4.301430212183731
+"MYS","Malaysia","admin0","Deaths","Deaths",2013,7.518567204552303
+"MYS","Malaysia","admin0","Deaths","Deaths",2014,5.903363564842907
+"MYS","Malaysia","admin0","Deaths","Deaths",2015,0.6931862000743684
+"MYS","Malaysia","admin0","Deaths","Deaths",2016,0.3788629253295616
+"MYS","Malaysia","admin0","Deaths","Deaths",2017,0.14711898632431097
+"MYS","Malaysia","admin0","Deaths","Deaths",2018,0.0024373476937573227
+"MYS","Malaysia","admin0","Deaths","Deaths",2019,0.0026996089174395593
+"MYS","Malaysia","admin0","Deaths","Deaths",2020,0.005551379155899924
+"MLI","Mali","admin0","Clinical Cases","Cases",2010,6277643.402133558
+"MLI","Mali","admin0","Clinical Cases","Cases",2011,6764927.219693575
+"MLI","Mali","admin0","Clinical Cases","Cases",2012,7344248.104454584
+"MLI","Mali","admin0","Clinical Cases","Cases",2013,7689913.9199455045
+"MLI","Mali","admin0","Clinical Cases","Cases",2014,7634365.571081026
+"MLI","Mali","admin0","Clinical Cases","Cases",2015,7176533.617567585
+"MLI","Mali","admin0","Clinical Cases","Cases",2016,5890170.840221168
+"MLI","Mali","admin0","Clinical Cases","Cases",2017,4831009.372757929
+"MLI","Mali","admin0","Clinical Cases","Cases",2018,4383166.410866982
+"MLI","Mali","admin0","Clinical Cases","Cases",2019,4722748.866633251
+"MLI","Mali","admin0","Clinical Cases","Cases",2020,6341227.649640153
+"MLI","Mali","admin0","Deaths","Deaths",2010,24194.781501086185
+"MLI","Mali","admin0","Deaths","Deaths",2011,25724.80516555145
+"MLI","Mali","admin0","Deaths","Deaths",2012,27318.48004546159
+"MLI","Mali","admin0","Deaths","Deaths",2013,28127.931053057913
+"MLI","Mali","admin0","Deaths","Deaths",2014,27326.911848845793
+"MLI","Mali","admin0","Deaths","Deaths",2015,24934.55595443786
+"MLI","Mali","admin0","Deaths","Deaths",2016,19642.0148471676
+"MLI","Mali","admin0","Deaths","Deaths",2017,15484.542657535952
+"MLI","Mali","admin0","Deaths","Deaths",2018,14289.471276433263
+"MLI","Mali","admin0","Deaths","Deaths",2019,15762.384601337157
+"MLI","Mali","admin0","Deaths","Deaths",2020,22764.358094941592
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2010,253702.55822972907
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2011,348637.67942157475
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2012,185888.25091157973
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2013,220338.26228077157
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2014,452082.87514070125
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2015,571115.5769921839
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2016,729465.8084139519
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2017,567775.3869359768
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2018,591382.5091758213
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2019,456972.61729824176
+"MRT","Mauritania","admin0","Clinical Cases","Cases",2020,495698.68072220136
+"MRT","Mauritania","admin0","Deaths","Deaths",2010,757.4227611453101
+"MRT","Mauritania","admin0","Deaths","Deaths",2011,984.191593952492
+"MRT","Mauritania","admin0","Deaths","Deaths",2012,517.9158753622447
+"MRT","Mauritania","admin0","Deaths","Deaths",2013,592.5245795741336
+"MRT","Mauritania","admin0","Deaths","Deaths",2014,1153.1089531995678
+"MRT","Mauritania","admin0","Deaths","Deaths",2015,1445.613315848917
+"MRT","Mauritania","admin0","Deaths","Deaths",2016,1808.6662145478324
+"MRT","Mauritania","admin0","Deaths","Deaths",2017,1495.1735048926926
+"MRT","Mauritania","admin0","Deaths","Deaths",2018,1538.3535942776898
+"MRT","Mauritania","admin0","Deaths","Deaths",2019,964.8341210869148
+"MRT","Mauritania","admin0","Deaths","Deaths",2020,1474.1828621216243
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2010,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2011,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2012,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2013,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2014,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2015,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2016,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2017,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2018,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2019,0
+"MYT","Mayotte","admin0","Clinical Cases","Cases",2020,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2010,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2011,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2012,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2013,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2014,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2015,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2016,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2017,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2018,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2019,0
+"MYT","Mayotte","admin0","Deaths","Deaths",2020,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2010,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2011,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2012,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2013,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2014,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2015,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2016,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2017,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2018,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2019,0
+"MEX","Mexico","admin0","Clinical Cases","Cases",2020,0
+"MEX","Mexico","admin0","Deaths","Deaths",2010,0
+"MEX","Mexico","admin0","Deaths","Deaths",2011,0
+"MEX","Mexico","admin0","Deaths","Deaths",2012,0
+"MEX","Mexico","admin0","Deaths","Deaths",2013,0
+"MEX","Mexico","admin0","Deaths","Deaths",2014,0
+"MEX","Mexico","admin0","Deaths","Deaths",2015,0
+"MEX","Mexico","admin0","Deaths","Deaths",2016,0
+"MEX","Mexico","admin0","Deaths","Deaths",2017,0
+"MEX","Mexico","admin0","Deaths","Deaths",2018,0
+"MEX","Mexico","admin0","Deaths","Deaths",2019,0
+"MEX","Mexico","admin0","Deaths","Deaths",2020,0
+"MAR","Morocco","admin0","Clinical Cases","Cases",2010,5.003390787116505e-15
+"MAR","Morocco","admin0","Clinical Cases","Cases",2011,7.350892169043096e-15
+"MAR","Morocco","admin0","Clinical Cases","Cases",2012,0.005845309346569828
+"MAR","Morocco","admin0","Clinical Cases","Cases",2013,5.968652835169183e-15
+"MAR","Morocco","admin0","Clinical Cases","Cases",2014,0
+"MAR","Morocco","admin0","Clinical Cases","Cases",2015,0
+"MAR","Morocco","admin0","Clinical Cases","Cases",2016,0
+"MAR","Morocco","admin0","Clinical Cases","Cases",2017,0
+"MAR","Morocco","admin0","Clinical Cases","Cases",2018,0
+"MAR","Morocco","admin0","Clinical Cases","Cases",2019,0
+"MAR","Morocco","admin0","Clinical Cases","Cases",2020,0
+"MAR","Morocco","admin0","Deaths","Deaths",2010,0.000010304130264392282
+"MAR","Morocco","admin0","Deaths","Deaths",2011,0.000005146531369494635
+"MAR","Morocco","admin0","Deaths","Deaths",2012,0.000060124506622531926
+"MAR","Morocco","admin0","Deaths","Deaths",2013,0.000006384049482040426
+"MAR","Morocco","admin0","Deaths","Deaths",2014,0
+"MAR","Morocco","admin0","Deaths","Deaths",2015,0
+"MAR","Morocco","admin0","Deaths","Deaths",2016,0
+"MAR","Morocco","admin0","Deaths","Deaths",2017,0
+"MAR","Morocco","admin0","Deaths","Deaths",2018,0
+"MAR","Morocco","admin0","Deaths","Deaths",2019,0
+"MAR","Morocco","admin0","Deaths","Deaths",2020,0
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2010,8536149.761164395
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2011,8688440.355681235
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2012,8908103.77592511
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2013,9138931.91523371
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2014,9123030.543847492
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2015,9155549.50548462
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2016,9238098.000008654
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2017,9114711.687831078
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2018,8990955.388311585
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2019,8895240.277086228
+"MOZ","Mozambique","admin0","Clinical Cases","Cases",2020,9628535.988288235
+"MOZ","Mozambique","admin0","Deaths","Deaths",2010,20173.650205362977
+"MOZ","Mozambique","admin0","Deaths","Deaths",2011,20026.873700204695
+"MOZ","Mozambique","admin0","Deaths","Deaths",2012,19548.489187722265
+"MOZ","Mozambique","admin0","Deaths","Deaths",2013,18804.23113483213
+"MOZ","Mozambique","admin0","Deaths","Deaths",2014,17414.21018481045
+"MOZ","Mozambique","admin0","Deaths","Deaths",2015,16256.8705505096
+"MOZ","Mozambique","admin0","Deaths","Deaths",2016,15974.308759494328
+"MOZ","Mozambique","admin0","Deaths","Deaths",2017,15423.120906614553
+"MOZ","Mozambique","admin0","Deaths","Deaths",2018,15751.475296053028
+"MOZ","Mozambique","admin0","Deaths","Deaths",2019,14887.785872709937
+"MOZ","Mozambique","admin0","Deaths","Deaths",2020,20553.7757395223
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2010,1073109.0898447826
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2011,914134.2064419943
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2012,1121990.9750651852
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2013,792812.7628693011
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2014,491903.2943242083
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2015,380939.3106124374
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2016,236092.2902957834
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2017,201628.702381943
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2018,133919.1338594932
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2019,104996.38267041459
+"MMR","Myanmar","admin0","Clinical Cases","Cases",2020,79232.612563377
+"MMR","Myanmar","admin0","Deaths","Deaths",2010,10946.401565783268
+"MMR","Myanmar","admin0","Deaths","Deaths",2011,8976.551472564899
+"MMR","Myanmar","admin0","Deaths","Deaths",2012,10132.664271253156
+"MMR","Myanmar","admin0","Deaths","Deaths",2013,6196.997985605469
+"MMR","Myanmar","admin0","Deaths","Deaths",2014,3378.6200410474535
+"MMR","Myanmar","admin0","Deaths","Deaths",2015,2482.122091722649
+"MMR","Myanmar","admin0","Deaths","Deaths",2016,1337.251895784235
+"MMR","Myanmar","admin0","Deaths","Deaths",2017,1131.940102969538
+"MMR","Myanmar","admin0","Deaths","Deaths",2018,1248.1505608412165
+"MMR","Myanmar","admin0","Deaths","Deaths",2019,3559.687906554361
+"MMR","Myanmar","admin0","Deaths","Deaths",2020,1713.694783669321
+"NAM","Namibia","admin0","Clinical Cases","Cases",2010,3745.622869550973
+"NAM","Namibia","admin0","Clinical Cases","Cases",2011,4682.0814781647
+"NAM","Namibia","admin0","Clinical Cases","Cases",2012,658.5563409642676
+"NAM","Namibia","admin0","Clinical Cases","Cases",2013,11411.14984502117
+"NAM","Namibia","admin0","Clinical Cases","Cases",2014,37954.38741650008
+"NAM","Namibia","admin0","Clinical Cases","Cases",2015,21678.90379803114
+"NAM","Namibia","admin0","Clinical Cases","Cases",2016,46395.24022075809
+"NAM","Namibia","admin0","Clinical Cases","Cases",2017,126213.22329803588
+"NAM","Namibia","admin0","Clinical Cases","Cases",2018,72494.03824279644
+"NAM","Namibia","admin0","Clinical Cases","Cases",2019,43020.62142394454
+"NAM","Namibia","admin0","Clinical Cases","Cases",2020,29204.510784780417
+"NAM","Namibia","admin0","Deaths","Deaths",2010,6.661168583544259
+"NAM","Namibia","admin0","Deaths","Deaths",2011,6.868620582383055
+"NAM","Namibia","admin0","Deaths","Deaths",2012,0.8927039753434582
+"NAM","Namibia","admin0","Deaths","Deaths",2013,13.398845071056206
+"NAM","Namibia","admin0","Deaths","Deaths",2014,37.50194176606405
+"NAM","Namibia","admin0","Deaths","Deaths",2015,17.353407250932317
+"NAM","Namibia","admin0","Deaths","Deaths",2016,37.77825489802154
+"NAM","Namibia","admin0","Deaths","Deaths",2017,104.11591505716336
+"NAM","Namibia","admin0","Deaths","Deaths",2018,80.0131788042722
+"NAM","Namibia","admin0","Deaths","Deaths",2019,61.48974168187945
+"NAM","Namibia","admin0","Deaths","Deaths",2020,32.80136493088995
+"NPL","Nepal","admin0","Clinical Cases","Cases",2010,4388.905698724191
+"NPL","Nepal","admin0","Clinical Cases","Cases",2011,2056.8390902433493
+"NPL","Nepal","admin0","Clinical Cases","Cases",2012,4176.654289594401
+"NPL","Nepal","admin0","Clinical Cases","Cases",2013,1230.1898205931243
+"NPL","Nepal","admin0","Clinical Cases","Cases",2014,637.2100202242217
+"NPL","Nepal","admin0","Clinical Cases","Cases",2015,717.7964330970361
+"NPL","Nepal","admin0","Clinical Cases","Cases",2016,488.598216139554
+"NPL","Nepal","admin0","Clinical Cases","Cases",2017,282.61986484028114
+"NPL","Nepal","admin0","Clinical Cases","Cases",2018,114.0371725972325
+"NPL","Nepal","admin0","Clinical Cases","Cases",2019,60.62722314415339
+"NPL","Nepal","admin0","Clinical Cases","Cases",2020,38.882249946551106
+"NPL","Nepal","admin0","Deaths","Deaths",2010,31.238574491117046
+"NPL","Nepal","admin0","Deaths","Deaths",2011,16.203767950985927
+"NPL","Nepal","admin0","Deaths","Deaths",2012,35.11726377922149
+"NPL","Nepal","admin0","Deaths","Deaths",2013,11.112779742384475
+"NPL","Nepal","admin0","Deaths","Deaths",2014,6.010642411806522
+"NPL","Nepal","admin0","Deaths","Deaths",2015,7.523732335986605
+"NPL","Nepal","admin0","Deaths","Deaths",2016,4.534362437848546
+"NPL","Nepal","admin0","Deaths","Deaths",2017,2.786434487058894
+"NPL","Nepal","admin0","Deaths","Deaths",2018,1.181959100385226
+"NPL","Nepal","admin0","Deaths","Deaths",2019,0.47323878323995433
+"NPL","Nepal","admin0","Deaths","Deaths",2020,0.3197060479718553
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2010,272.9373176550846
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2011,275.07961464034696
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2012,407.82099280595355
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2013,355.4703073252673
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2014,267.80062724316195
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2015,597.1744934568292
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2016,2156.961607757244
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2017,3074.1385249891964
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2018,2220.4100513740204
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2019,4102.3324969797895
+"NIC","Nicaragua","admin0","Clinical Cases","Cases",2020,20459.25272068447
+"NIC","Nicaragua","admin0","Deaths","Deaths",2010,0.45824307488805716
+"NIC","Nicaragua","admin0","Deaths","Deaths",2011,0.4436270857644194
+"NIC","Nicaragua","admin0","Deaths","Deaths",2012,0.6725298578550872
+"NIC","Nicaragua","admin0","Deaths","Deaths",2013,0.5658428097290571
+"NIC","Nicaragua","admin0","Deaths","Deaths",2014,0.4148522371518753
+"NIC","Nicaragua","admin0","Deaths","Deaths",2015,0.8942180888635092
+"NIC","Nicaragua","admin0","Deaths","Deaths",2016,3.1934750029568253
+"NIC","Nicaragua","admin0","Deaths","Deaths",2017,4.095794353267808
+"NIC","Nicaragua","admin0","Deaths","Deaths",2018,3.817026357652456
+"NIC","Nicaragua","admin0","Deaths","Deaths",2019,4.577010711947712
+"NIC","Nicaragua","admin0","Deaths","Deaths",2020,27.98746105978138
+"NER","Niger","admin0","Clinical Cases","Cases",2010,6839120.119422787
+"NER","Niger","admin0","Clinical Cases","Cases",2011,7344671.934740111
+"NER","Niger","admin0","Clinical Cases","Cases",2012,7661491.742817954
+"NER","Niger","admin0","Clinical Cases","Cases",2013,7719049.242942037
+"NER","Niger","admin0","Clinical Cases","Cases",2014,7880656.122795231
+"NER","Niger","admin0","Clinical Cases","Cases",2015,8081887.62430658
+"NER","Niger","admin0","Clinical Cases","Cases",2016,8059500.0633071195
+"NER","Niger","admin0","Clinical Cases","Cases",2017,7875227.042846423
+"NER","Niger","admin0","Clinical Cases","Cases",2018,7751737.386784574
+"NER","Niger","admin0","Clinical Cases","Cases",2019,7632633.969421859
+"NER","Niger","admin0","Clinical Cases","Cases",2020,7906047.932081192
+"NER","Niger","admin0","Deaths","Deaths",2010,35087.877047636604
+"NER","Niger","admin0","Deaths","Deaths",2011,36722.24333455205
+"NER","Niger","admin0","Deaths","Deaths",2012,37566.16261535578
+"NER","Niger","admin0","Deaths","Deaths",2013,35759.89136938071
+"NER","Niger","admin0","Deaths","Deaths",2014,33155.92180289462
+"NER","Niger","admin0","Deaths","Deaths",2015,32318.524947419366
+"NER","Niger","admin0","Deaths","Deaths",2016,31378.80876095748
+"NER","Niger","admin0","Deaths","Deaths",2017,30064.979315207576
+"NER","Niger","admin0","Deaths","Deaths",2018,30675.484563511556
+"NER","Niger","admin0","Deaths","Deaths",2019,31226.63589162715
+"NER","Niger","admin0","Deaths","Deaths",2020,33537.8450814283
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2010,62332975.905671276
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2011,60323191.5133312
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2012,58171171.8285441
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2013,56286207.046190485
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2014,55913365.9572202
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2015,56617229.93285702
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2016,58523457.865210414
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2017,61012116.5128862
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2018,62938658.41588287
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2019,64970812.82336415
+"NGA","Nigeria","admin0","Clinical Cases","Cases",2020,69691016.4340796
+"NGA","Nigeria","admin0","Deaths","Deaths",2010,249976.68075310974
+"NGA","Nigeria","admin0","Deaths","Deaths",2011,233171.34912326437
+"NGA","Nigeria","admin0","Deaths","Deaths",2012,212563.1992203883
+"NGA","Nigeria","admin0","Deaths","Deaths",2013,195504.04976587687
+"NGA","Nigeria","admin0","Deaths","Deaths",2014,186508.29754232353
+"NGA","Nigeria","admin0","Deaths","Deaths",2015,182239.37232841738
+"NGA","Nigeria","admin0","Deaths","Deaths",2016,178513.7439786391
+"NGA","Nigeria","admin0","Deaths","Deaths",2017,179648.875882073
+"NGA","Nigeria","admin0","Deaths","Deaths",2018,189447.6338121098
+"NGA","Nigeria","admin0","Deaths","Deaths",2019,200789.50592810012
+"NGA","Nigeria","admin0","Deaths","Deaths",2020,229600.63962065065
+"PRK","North Korea","admin0","Clinical Cases","Cases",2010,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2011,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2012,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2013,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2014,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2015,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2016,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2017,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2018,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2019,0
+"PRK","North Korea","admin0","Clinical Cases","Cases",2020,0
+"PRK","North Korea","admin0","Deaths","Deaths",2010,0
+"PRK","North Korea","admin0","Deaths","Deaths",2011,0
+"PRK","North Korea","admin0","Deaths","Deaths",2012,0
+"PRK","North Korea","admin0","Deaths","Deaths",2013,0
+"PRK","North Korea","admin0","Deaths","Deaths",2014,0
+"PRK","North Korea","admin0","Deaths","Deaths",2015,0
+"PRK","North Korea","admin0","Deaths","Deaths",2016,0
+"PRK","North Korea","admin0","Deaths","Deaths",2017,0
+"PRK","North Korea","admin0","Deaths","Deaths",2018,0
+"PRK","North Korea","admin0","Deaths","Deaths",2019,0
+"PRK","North Korea","admin0","Deaths","Deaths",2020,0
+"OMN","Oman","admin0","Clinical Cases","Cases",2010,2.8961388766982514
+"OMN","Oman","admin0","Clinical Cases","Cases",2011,0.862084246117098
+"OMN","Oman","admin0","Clinical Cases","Cases",2012,0.933204380242544
+"OMN","Oman","admin0","Clinical Cases","Cases",2013,0.6443834413149991
+"OMN","Oman","admin0","Clinical Cases","Cases",2014,2.0079928384144545
+"OMN","Oman","admin0","Clinical Cases","Cases",2015,2.889611953806186
+"OMN","Oman","admin0","Clinical Cases","Cases",2016,2.859781175048427
+"OMN","Oman","admin0","Clinical Cases","Cases",2017,2.658271673184658
+"OMN","Oman","admin0","Clinical Cases","Cases",2018,1.8871085017870488
+"OMN","Oman","admin0","Clinical Cases","Cases",2019,2.448509466773232
+"OMN","Oman","admin0","Clinical Cases","Cases",2020,2.9610232579141633
+"OMN","Oman","admin0","Deaths","Deaths",2010,0.01386608310955791
+"OMN","Oman","admin0","Deaths","Deaths",2011,0.004107683348705579
+"OMN","Oman","admin0","Deaths","Deaths",2012,0.004387141808337625
+"OMN","Oman","admin0","Deaths","Deaths",2013,0.0030094064810904622
+"OMN","Oman","admin0","Deaths","Deaths",2014,0.008955419491783826
+"OMN","Oman","admin0","Deaths","Deaths",2015,0.004206886361527854
+"OMN","Oman","admin0","Deaths","Deaths",2016,0.005270194685066533
+"OMN","Oman","admin0","Deaths","Deaths",2017,0.003460191354746692
+"OMN","Oman","admin0","Deaths","Deaths",2018,0.004011864475788909
+"OMN","Oman","admin0","Deaths","Deaths",2019,0.0011125305990172096
+"OMN","Oman","admin0","Deaths","Deaths",2020,0.003162117432514065
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2010,1404520.7022411576
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2011,1351958.1631905322
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2012,1177635.6342684713
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2013,461333.6020417388
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2014,385554.78489009076
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2015,379681.10068430577
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2016,393213.6001986474
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2017,473625.40671315737
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2018,421115.314965043
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2019,594785.4048689858
+"PAK","Pakistan","admin0","Clinical Cases","Cases",2020,538843.1881321574
+"PAK","Pakistan","admin0","Deaths","Deaths",2010,9775.417555784494
+"PAK","Pakistan","admin0","Deaths","Deaths",2011,11002.865736159798
+"PAK","Pakistan","admin0","Deaths","Deaths",2012,11374.776187041814
+"PAK","Pakistan","admin0","Deaths","Deaths",2013,4039.6547094207444
+"PAK","Pakistan","admin0","Deaths","Deaths",2014,3209.340840689257
+"PAK","Pakistan","admin0","Deaths","Deaths",2015,3428.4691484272134
+"PAK","Pakistan","admin0","Deaths","Deaths",2016,3138.3504589235476
+"PAK","Pakistan","admin0","Deaths","Deaths",2017,3792.565258023073
+"PAK","Pakistan","admin0","Deaths","Deaths",2018,3984.9470619526123
+"PAK","Pakistan","admin0","Deaths","Deaths",2019,4345.637977328937
+"PAK","Pakistan","admin0","Deaths","Deaths",2020,3980.492477162942
+"PAN","Panama","admin0","Clinical Cases","Cases",2010,38.39576008258228
+"PAN","Panama","admin0","Clinical Cases","Cases",2011,1.919843607232918
+"PAN","Panama","admin0","Clinical Cases","Cases",2012,2.026384305771537
+"PAN","Panama","admin0","Clinical Cases","Cases",2013,0
+"PAN","Panama","admin0","Clinical Cases","Cases",2014,0
+"PAN","Panama","admin0","Clinical Cases","Cases",2015,0
+"PAN","Panama","admin0","Clinical Cases","Cases",2016,42.74817883046916
+"PAN","Panama","admin0","Clinical Cases","Cases",2017,1.052721521553285
+"PAN","Panama","admin0","Clinical Cases","Cases",2018,0
+"PAN","Panama","admin0","Clinical Cases","Cases",2019,0
+"PAN","Panama","admin0","Clinical Cases","Cases",2020,0
+"PAN","Panama","admin0","Deaths","Deaths",2010,0.13553282925224586
+"PAN","Panama","admin0","Deaths","Deaths",2011,0.005495176046256801
+"PAN","Panama","admin0","Deaths","Deaths",2012,0.006986908496299906
+"PAN","Panama","admin0","Deaths","Deaths",2013,0
+"PAN","Panama","admin0","Deaths","Deaths",2014,0
+"PAN","Panama","admin0","Deaths","Deaths",2015,0
+"PAN","Panama","admin0","Deaths","Deaths",2016,0.0911701019270471
+"PAN","Panama","admin0","Deaths","Deaths",2017,0.0013474751391231682
+"PAN","Panama","admin0","Deaths","Deaths",2018,0
+"PAN","Panama","admin0","Deaths","Deaths",2019,0
+"PAN","Panama","admin0","Deaths","Deaths",2020,0
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2010,452975.8682171646
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2011,370065.4491642881
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2012,386624.92237119336
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2013,599228.9117557383
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2014,572540.0718327066
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2015,371758.3418049934
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2016,587934.2658288007
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2017,531926.5212537474
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2018,556623.05579092
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2019,514543.6864019681
+"PNG","Papua New Guinea","admin0","Clinical Cases","Cases",2020,661695.6298785948
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2010,1725.7656727640963
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2011,1279.8081290733317
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2012,1222.532717669187
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2013,1793.299743468875
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2014,1638.9778645650063
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2015,1036.6169227429523
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2016,1591.5262560376918
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2017,1466.7090245604456
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2018,1560.9359124300688
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2019,1013.7061999132052
+"PNG","Papua New Guinea","admin0","Deaths","Deaths",2020,1391.3012688721979
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2010,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2011,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2012,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2013,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2014,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2015,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2016,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2017,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2018,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2019,0
+"PRY","Paraguay","admin0","Clinical Cases","Cases",2020,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2010,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2011,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2012,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2013,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2014,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2015,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2016,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2017,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2018,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2019,0
+"PRY","Paraguay","admin0","Deaths","Deaths",2020,0
+"PER","Peru","admin0","Clinical Cases","Cases",2010,4254.567221545685
+"PER","Peru","admin0","Clinical Cases","Cases",2011,5523.514478239013
+"PER","Peru","admin0","Clinical Cases","Cases",2012,6090.775930207455
+"PER","Peru","admin0","Clinical Cases","Cases",2013,21368.501544070496
+"PER","Peru","admin0","Clinical Cases","Cases",2014,27551.167865809104
+"PER","Peru","admin0","Clinical Cases","Cases",2015,26865.695546268158
+"PER","Peru","admin0","Clinical Cases","Cases",2016,25472.133023374732
+"PER","Peru","admin0","Clinical Cases","Cases",2017,22923.07835888613
+"PER","Peru","admin0","Clinical Cases","Cases",2018,15622.639728970607
+"PER","Peru","admin0","Clinical Cases","Cases",2019,7983.3242798147885
+"PER","Peru","admin0","Clinical Cases","Cases",2020,5552.0299281287735
+"PER","Peru","admin0","Deaths","Deaths",2010,6.171699744802149
+"PER","Peru","admin0","Deaths","Deaths",2011,9.001513391343563
+"PER","Peru","admin0","Deaths","Deaths",2012,10.652711877738659
+"PER","Peru","admin0","Deaths","Deaths",2013,37.18181256730448
+"PER","Peru","admin0","Deaths","Deaths",2014,45.68561681585133
+"PER","Peru","admin0","Deaths","Deaths",2015,45.93473626785072
+"PER","Peru","admin0","Deaths","Deaths",2016,43.2289509162955
+"PER","Peru","admin0","Deaths","Deaths",2017,37.99236596758138
+"PER","Peru","admin0","Deaths","Deaths",2018,34.02451874559367
+"PER","Peru","admin0","Deaths","Deaths",2019,8.706086853103251
+"PER","Peru","admin0","Deaths","Deaths",2020,5.625741330099418
+"PHL","Philippines","admin0","Clinical Cases","Cases",2010,40600.095167562155
+"PHL","Philippines","admin0","Clinical Cases","Cases",2011,20351.88700028342
+"PHL","Philippines","admin0","Clinical Cases","Cases",2012,15425.18185864795
+"PHL","Philippines","admin0","Clinical Cases","Cases",2013,16535.774723164177
+"PHL","Philippines","admin0","Clinical Cases","Cases",2014,14465.416801576359
+"PHL","Philippines","admin0","Clinical Cases","Cases",2015,25699.624608145026
+"PHL","Philippines","admin0","Clinical Cases","Cases",2016,16891.21287835498
+"PHL","Philippines","admin0","Clinical Cases","Cases",2017,17385.77084079657
+"PHL","Philippines","admin0","Clinical Cases","Cases",2018,13996.174586838186
+"PHL","Philippines","admin0","Clinical Cases","Cases",2019,16868.22375440554
+"PHL","Philippines","admin0","Clinical Cases","Cases",2020,19915.992841160958
+"PHL","Philippines","admin0","Deaths","Deaths",2010,303.21978933059927
+"PHL","Philippines","admin0","Deaths","Deaths",2011,133.32715566218823
+"PHL","Philippines","admin0","Deaths","Deaths",2012,91.90982141297414
+"PHL","Philippines","admin0","Deaths","Deaths",2013,85.59381540838254
+"PHL","Philippines","admin0","Deaths","Deaths",2014,69.33083541456203
+"PHL","Philippines","admin0","Deaths","Deaths",2015,126.58330852234339
+"PHL","Philippines","admin0","Deaths","Deaths",2016,70.15092883351501
+"PHL","Philippines","admin0","Deaths","Deaths",2017,65.83256725697524
+"PHL","Philippines","admin0","Deaths","Deaths",2018,62.568288662489145
+"PHL","Philippines","admin0","Deaths","Deaths",2019,51.462352307671864
+"PHL","Philippines","admin0","Deaths","Deaths",2020,59.77142925187219
+"COG","Congo","admin0","Clinical Cases","Cases",2010,825105.7866588112
+"COG","Congo","admin0","Clinical Cases","Cases",2011,835597.8183780867
+"COG","Congo","admin0","Clinical Cases","Cases",2012,847985.9885751517
+"COG","Congo","admin0","Clinical Cases","Cases",2013,862633.6876273537
+"COG","Congo","admin0","Clinical Cases","Cases",2014,849156.1596099219
+"COG","Congo","admin0","Clinical Cases","Cases",2015,858946.1947098238
+"COG","Congo","admin0","Clinical Cases","Cases",2016,906083.4886436375
+"COG","Congo","admin0","Clinical Cases","Cases",2017,1003160.6492309123
+"COG","Congo","admin0","Clinical Cases","Cases",2018,1082981.7203799367
+"COG","Congo","admin0","Clinical Cases","Cases",2019,1096591.5783309024
+"COG","Congo","admin0","Clinical Cases","Cases",2020,1099175.4437037497
+"COG","Congo","admin0","Deaths","Deaths",2010,1930.9739755143291
+"COG","Congo","admin0","Deaths","Deaths",2011,1977.6772045567318
+"COG","Congo","admin0","Deaths","Deaths",2012,1998.8092457995765
+"COG","Congo","admin0","Deaths","Deaths",2013,1910.3301664056098
+"COG","Congo","admin0","Deaths","Deaths",2014,1804.6814404097177
+"COG","Congo","admin0","Deaths","Deaths",2015,1790.8099816773663
+"COG","Congo","admin0","Deaths","Deaths",2016,1848.5873214704993
+"COG","Congo","admin0","Deaths","Deaths",2017,1994.146581659655
+"COG","Congo","admin0","Deaths","Deaths",2018,2171.251192794342
+"COG","Congo","admin0","Deaths","Deaths",2019,2078.312953738933
+"COG","Congo","admin0","Deaths","Deaths",2020,2468.9252960919002
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2010,735159.1117770799
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2011,754560.9944612577
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2012,673070.8253437891
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2013,565661.4866546255
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2014,542444.1833636048
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2015,581711.843327729
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2016,685142.0862477263
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2017,806106.620756587
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2018,816172.5607565412
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2019,730817.436630032
+"RWA","Rwanda","admin0","Clinical Cases","Cases",2020,589608.5211089217
+"RWA","Rwanda","admin0","Deaths","Deaths",2010,3274.484009121225
+"RWA","Rwanda","admin0","Deaths","Deaths",2011,3253.119451037989
+"RWA","Rwanda","admin0","Deaths","Deaths",2012,2874.7649597289883
+"RWA","Rwanda","admin0","Deaths","Deaths",2013,2319.1024223363916
+"RWA","Rwanda","admin0","Deaths","Deaths",2014,2144.6853993148384
+"RWA","Rwanda","admin0","Deaths","Deaths",2015,2188.1777574902853
+"RWA","Rwanda","admin0","Deaths","Deaths",2016,2465.0117710168406
+"RWA","Rwanda","admin0","Deaths","Deaths",2017,2693.180368541941
+"RWA","Rwanda","admin0","Deaths","Deaths",2018,2817.6701581764123
+"RWA","Rwanda","admin0","Deaths","Deaths",2019,2528.3908416947174
+"RWA","Rwanda","admin0","Deaths","Deaths",2020,2079.529789139162
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2010,4941.990133274278
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2011,15178.497183796793
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2012,22919.27701394785
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2013,18648.97407969749
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2014,3592.0552498644897
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2015,3649.102967125245
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2016,3912.7969276611398
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2017,3949.2472119848317
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2018,5162.120088449088
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2019,4716.276789253255
+"STP","Sao Tome And Principe","admin0","Clinical Cases","Cases",2020,3475.616398246921
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2010,16.06325207675477
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2011,44.67112850870192
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2012,71.01514084813014
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2013,48.15337534727788
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2014,6.864212653524332
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2015,6.351068106106437
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2016,6.505123989806645
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2017,5.908598143775114
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2018,6.790544119208434
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2019,6.229252195113305
+"STP","Sao Tome And Principe","admin0","Deaths","Deaths",2020,6.2282219973405955
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2010,29.000021208898957
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2011,68.99991395033462
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2012,82.00121190192698
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2013,28.89999072655746
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2014,50.99999809929362
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2015,82.99998043672586
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2016,270.0009923664387
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2017,172.0000031569753
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2018,181.27870435107587
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2019,123.00001394054249
+"SAU","Saudi Arabia","admin0","Clinical Cases","Cases",2020,204.99999471812404
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2010,0.15483600232330863
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2011,0.35624838422562677
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2012,0.39294246874819794
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2013,0.13616715056453965
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2014,0.21322026414476017
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2015,0.35964498062777195
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2016,1.1473872430057621
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2017,0.7618435059249405
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2018,0.9880254091599953
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2019,0.08802120467496918
+"SAU","Saudi Arabia","admin0","Deaths","Deaths",2020,0.1670273732852865
+"SEN","Senegal","admin0","Clinical Cases","Cases",2010,1624445.2944834225
+"SEN","Senegal","admin0","Clinical Cases","Cases",2011,1440525.7442560908
+"SEN","Senegal","admin0","Clinical Cases","Cases",2012,1628321.5691003117
+"SEN","Senegal","admin0","Clinical Cases","Cases",2013,1464401.9990516761
+"SEN","Senegal","admin0","Clinical Cases","Cases",2014,957054.3702222419
+"SEN","Senegal","admin0","Clinical Cases","Cases",2015,1545772.8473449142
+"SEN","Senegal","admin0","Clinical Cases","Cases",2016,1127105.6823773442
+"SEN","Senegal","admin0","Clinical Cases","Cases",2017,1226008.9225437494
+"SEN","Senegal","admin0","Clinical Cases","Cases",2018,1586034.038361542
+"SEN","Senegal","admin0","Clinical Cases","Cases",2019,1171414.1972267649
+"SEN","Senegal","admin0","Clinical Cases","Cases",2020,1561981.5154159346
+"SEN","Senegal","admin0","Deaths","Deaths",2010,6006.199390575646
+"SEN","Senegal","admin0","Deaths","Deaths",2011,5047.934513966286
+"SEN","Senegal","admin0","Deaths","Deaths",2012,5509.431386347781
+"SEN","Senegal","admin0","Deaths","Deaths",2013,4572.39105382341
+"SEN","Senegal","admin0","Deaths","Deaths",2014,2894.658157725562
+"SEN","Senegal","admin0","Deaths","Deaths",2015,4386.774799802872
+"SEN","Senegal","admin0","Deaths","Deaths",2016,3224.9092248957845
+"SEN","Senegal","admin0","Deaths","Deaths",2017,3734.5635568264124
+"SEN","Senegal","admin0","Deaths","Deaths",2018,4990.606009228664
+"SEN","Senegal","admin0","Deaths","Deaths",2019,3143.5802812967254
+"SEN","Senegal","admin0","Deaths","Deaths",2020,3914.2454612149672
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2010,2856518.957200509
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2011,2900593.266953794
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2012,2910179.879523267
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2013,2890777.074312819
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2014,2882233.763618355
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2015,2901257.3240366657
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2016,2945829.739464255
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2017,2902601.041667262
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2018,2925347.329416575
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2019,2890811.2914467673
+"SLE","Sierra Leone","admin0","Clinical Cases","Cases",2020,2816072.9235829916
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2010,13589.225923846454
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2011,12797.300140464593
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2012,11642.145227130733
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2013,10640.406229306785
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2014,9993.614245631545
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2015,10284.134853492533
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2016,10437.022708260347
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2017,9860.117718408681
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2018,9801.21186160017
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2019,9259.07639365454
+"SLE","Sierra Leone","admin0","Deaths","Deaths",2020,11544.802452444765
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2010,67783.39651585513
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2011,44166.246645803185
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2012,36201.74070963254
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2013,32595.98107044341
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2014,21834.83597617583
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2015,23230.20228267351
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2016,34778.285432216304
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2017,33457.372305918914
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2018,33601.849436928605
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2019,33917.33891496067
+"SLB","Solomon Islands","admin0","Clinical Cases","Cases",2020,32360.41169693522
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2010,335.337178561684
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2011,205.14828342185905
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2012,163.39094026576967
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2013,134.42659959094738
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2014,89.97811812790862
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2015,91.42019694986587
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2016,128.4533319433501
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2017,120.2092075480018
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2018,115.32934613129478
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2019,88.29536004227654
+"SLB","Solomon Islands","admin0","Deaths","Deaths",2020,87.99921535517159
+"SOM","Somalia","admin0","Clinical Cases","Cases",2010,491286.514112552
+"SOM","Somalia","admin0","Clinical Cases","Cases",2011,444892.6935271511
+"SOM","Somalia","admin0","Clinical Cases","Cases",2012,436116.66516568605
+"SOM","Somalia","admin0","Clinical Cases","Cases",2013,488570.6947529977
+"SOM","Somalia","admin0","Clinical Cases","Cases",2014,609279.2780654483
+"SOM","Somalia","admin0","Clinical Cases","Cases",2015,813917.782554614
+"SOM","Somalia","admin0","Clinical Cases","Cases",2016,1175010.6153826588
+"SOM","Somalia","admin0","Clinical Cases","Cases",2017,1658988.0391204478
+"SOM","Somalia","admin0","Clinical Cases","Cases",2018,2087655.89883041
+"SOM","Somalia","admin0","Clinical Cases","Cases",2019,2263514.199141308
+"SOM","Somalia","admin0","Clinical Cases","Cases",2020,2329506.725231942
+"SOM","Somalia","admin0","Deaths","Deaths",2010,979.2057723783171
+"SOM","Somalia","admin0","Deaths","Deaths",2011,821.7391307031323
+"SOM","Somalia","admin0","Deaths","Deaths",2012,800.0026589275805
+"SOM","Somalia","admin0","Deaths","Deaths",2013,927.441294814529
+"SOM","Somalia","admin0","Deaths","Deaths",2014,1104.88187022139
+"SOM","Somalia","admin0","Deaths","Deaths",2015,1441.6706869588268
+"SOM","Somalia","admin0","Deaths","Deaths",2016,1982.7846211031465
+"SOM","Somalia","admin0","Deaths","Deaths",2017,2626.2956112168713
+"SOM","Somalia","admin0","Deaths","Deaths",2018,3480.279159932063
+"SOM","Somalia","admin0","Deaths","Deaths",2019,3756.637334913649
+"SOM","Somalia","admin0","Deaths","Deaths",2020,3908.6448948871584
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2010,25304.14086983764
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2011,31192.235699333716
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2012,20078.100122490087
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2013,41010.26666745778
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2014,40868.71704460321
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2015,1953.4694709321009
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2016,4538.790048107282
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2017,85377.31892985779
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2018,37510.02798469308
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2019,12259.19380799129
+"ZAF","South Africa","admin0","Clinical Cases","Cases",2020,18381.652147833876
+"ZAF","South Africa","admin0","Deaths","Deaths",2010,49.95777832414587
+"ZAF","South Africa","admin0","Deaths","Deaths",2011,58.03291140994974
+"ZAF","South Africa","admin0","Deaths","Deaths",2012,36.23092581271154
+"ZAF","South Africa","admin0","Deaths","Deaths",2013,69.66387178354422
+"ZAF","South Africa","admin0","Deaths","Deaths",2014,62.02499773147845
+"ZAF","South Africa","admin0","Deaths","Deaths",2015,2.686082534900053
+"ZAF","South Africa","admin0","Deaths","Deaths",2016,6.515103394106742
+"ZAF","South Africa","admin0","Deaths","Deaths",2017,137.2893860942471
+"ZAF","South Africa","admin0","Deaths","Deaths",2018,66.10743167796649
+"ZAF","South Africa","admin0","Deaths","Deaths",2019,15.434509531998632
+"ZAF","South Africa","admin0","Deaths","Deaths",2020,36.684732072671046
+"KOR","South Korea","admin0","Clinical Cases","Cases",2010,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2011,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2012,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2013,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2014,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2015,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2016,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2017,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2018,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2019,0
+"KOR","South Korea","admin0","Clinical Cases","Cases",2020,0
+"KOR","South Korea","admin0","Deaths","Deaths",2010,0
+"KOR","South Korea","admin0","Deaths","Deaths",2011,0
+"KOR","South Korea","admin0","Deaths","Deaths",2012,0
+"KOR","South Korea","admin0","Deaths","Deaths",2013,0
+"KOR","South Korea","admin0","Deaths","Deaths",2014,0
+"KOR","South Korea","admin0","Deaths","Deaths",2015,0
+"KOR","South Korea","admin0","Deaths","Deaths",2016,0
+"KOR","South Korea","admin0","Deaths","Deaths",2017,0
+"KOR","South Korea","admin0","Deaths","Deaths",2018,0
+"KOR","South Korea","admin0","Deaths","Deaths",2019,0
+"KOR","South Korea","admin0","Deaths","Deaths",2020,0
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2010,2644279.439194713
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2011,2779382.376268653
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2012,2835535.4151962735
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2013,2857564.631172391
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2014,2750398.0732849026
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2015,2583634.8450521026
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2016,2420547.0532296505
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2017,2536540.6260682424
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2018,2604918.340401024
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2019,2954386.8710528105
+"SSD","South Sudan","admin0","Clinical Cases","Cases",2020,2959105.108164241
+"SSD","South Sudan","admin0","Deaths","Deaths",2010,5519.535704511232
+"SSD","South Sudan","admin0","Deaths","Deaths",2011,5626.112581904574
+"SSD","South Sudan","admin0","Deaths","Deaths",2012,5598.511252058632
+"SSD","South Sudan","admin0","Deaths","Deaths",2013,5638.843918059073
+"SSD","South Sudan","admin0","Deaths","Deaths",2014,5464.074974125593
+"SSD","South Sudan","admin0","Deaths","Deaths",2015,5446.58359197155
+"SSD","South Sudan","admin0","Deaths","Deaths",2016,4966.761367480573
+"SSD","South Sudan","admin0","Deaths","Deaths",2017,5090.697550174181
+"SSD","South Sudan","admin0","Deaths","Deaths",2018,5084.8644521073975
+"SSD","South Sudan","admin0","Deaths","Deaths",2019,5996.813699004415
+"SSD","South Sudan","admin0","Deaths","Deaths",2020,6161.834048622511
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2010,20.404142183573235
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2011,3.04917301625429
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2012,3.999781680971508
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2013,0
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2014,0
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2015,0
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2016,0
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2017,0
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2018,0
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2019,0
+"LKA","Sri Lanka","admin0","Clinical Cases","Cases",2020,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2010,0.12375644342930688
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2011,0.013955005917566462
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2012,0.017301371301461456
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2013,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2014,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2015,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2016,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2017,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2018,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2019,0
+"LKA","Sri Lanka","admin0","Deaths","Deaths",2020,0
+"SDN","Sudan","admin0","Clinical Cases","Cases",2010,1046362.0659788301
+"SDN","Sudan","admin0","Clinical Cases","Cases",2011,1061021.6306906492
+"SDN","Sudan","admin0","Clinical Cases","Cases",2012,1099468.4579577693
+"SDN","Sudan","admin0","Clinical Cases","Cases",2013,1186773.551379986
+"SDN","Sudan","admin0","Clinical Cases","Cases",2014,1338572.1554798987
+"SDN","Sudan","admin0","Clinical Cases","Cases",2015,1500284.9324634194
+"SDN","Sudan","admin0","Clinical Cases","Cases",2016,1670542.082019828
+"SDN","Sudan","admin0","Clinical Cases","Cases",2017,1942792.0970200715
+"SDN","Sudan","admin0","Clinical Cases","Cases",2018,2159770.7297659856
+"SDN","Sudan","admin0","Clinical Cases","Cases",2019,2418618.763215994
+"SDN","Sudan","admin0","Clinical Cases","Cases",2020,2735023.917263236
+"SDN","Sudan","admin0","Deaths","Deaths",2010,1884.4663117323648
+"SDN","Sudan","admin0","Deaths","Deaths",2011,1834.0815645671794
+"SDN","Sudan","admin0","Deaths","Deaths",2012,1867.434505474946
+"SDN","Sudan","admin0","Deaths","Deaths",2013,1960.1139396528845
+"SDN","Sudan","admin0","Deaths","Deaths",2014,2173.905038423382
+"SDN","Sudan","admin0","Deaths","Deaths",2015,2531.694238503293
+"SDN","Sudan","admin0","Deaths","Deaths",2016,2864.8792567709675
+"SDN","Sudan","admin0","Deaths","Deaths",2017,3246.573379101551
+"SDN","Sudan","admin0","Deaths","Deaths",2018,2793.3973611926044
+"SDN","Sudan","admin0","Deaths","Deaths",2019,2886.0822212283474
+"SDN","Sudan","admin0","Deaths","Deaths",2020,3419.599804680655
+"SUR","Suriname","admin0","Clinical Cases","Cases",2010,1479.0557193510147
+"SUR","Suriname","admin0","Clinical Cases","Cases",2011,725.1992938653206
+"SUR","Suriname","admin0","Clinical Cases","Cases",2012,479.3469282913901
+"SUR","Suriname","admin0","Clinical Cases","Cases",2013,709.7345361526131
+"SUR","Suriname","admin0","Clinical Cases","Cases",2014,543.2465883531447
+"SUR","Suriname","admin0","Clinical Cases","Cases",2015,74.17314781330693
+"SUR","Suriname","admin0","Clinical Cases","Cases",2016,46.122607129077075
+"SUR","Suriname","admin0","Clinical Cases","Cases",2017,13.795301706170482
+"SUR","Suriname","admin0","Clinical Cases","Cases",2018,17.614067826085375
+"SUR","Suriname","admin0","Clinical Cases","Cases",2019,0
+"SUR","Suriname","admin0","Clinical Cases","Cases",2020,0
+"SUR","Suriname","admin0","Deaths","Deaths",2010,4.119905169771813
+"SUR","Suriname","admin0","Deaths","Deaths",2011,2.0396756371515914
+"SUR","Suriname","admin0","Deaths","Deaths",2012,1.3800334607606146
+"SUR","Suriname","admin0","Deaths","Deaths",2013,2.096689308346324
+"SUR","Suriname","admin0","Deaths","Deaths",2014,1.5386648573770947
+"SUR","Suriname","admin0","Deaths","Deaths",2015,0.1903320789900607
+"SUR","Suriname","admin0","Deaths","Deaths",2016,0.13632067200502582
+"SUR","Suriname","admin0","Deaths","Deaths",2017,0.0356289280599006
+"SUR","Suriname","admin0","Deaths","Deaths",2018,0.07555917738012062
+"SUR","Suriname","admin0","Deaths","Deaths",2019,0
+"SUR","Suriname","admin0","Deaths","Deaths",2020,0
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2010,1859.8004234630928
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2011,1259.5544695554543
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2012,1289.238677375067
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2013,2952.353044355069
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2014,1042.358623252028
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2015,888.052760339986
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2016,661.538781387143
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2017,1192.138178129957
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2018,1868.180055129125
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2019,650.7530339354447
+"SWZ","eSwatini","admin0","Clinical Cases","Cases",2020,678.6706136206508
+"SWZ","eSwatini","admin0","Deaths","Deaths",2010,7.185822243747798
+"SWZ","eSwatini","admin0","Deaths","Deaths",2011,4.5244323220766605
+"SWZ","eSwatini","admin0","Deaths","Deaths",2012,4.581932730026078
+"SWZ","eSwatini","admin0","Deaths","Deaths",2013,9.478575246613977
+"SWZ","eSwatini","admin0","Deaths","Deaths",2014,3.153101891031108
+"SWZ","eSwatini","admin0","Deaths","Deaths",2015,2.355856813044063
+"SWZ","eSwatini","admin0","Deaths","Deaths",2016,1.7936995467567944
+"SWZ","eSwatini","admin0","Deaths","Deaths",2017,3.6601304801742827
+"SWZ","eSwatini","admin0","Deaths","Deaths",2018,4.261742486112365
+"SWZ","eSwatini","admin0","Deaths","Deaths",2019,1.0530857597759986
+"SWZ","eSwatini","admin0","Deaths","Deaths",2020,1.4806186398978656
+"SYR","Syria","admin0","Clinical Cases","Cases",2010,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2011,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2012,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2013,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2014,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2015,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2016,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2017,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2018,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2019,0
+"SYR","Syria","admin0","Clinical Cases","Cases",2020,0
+"SYR","Syria","admin0","Deaths","Deaths",2010,0
+"SYR","Syria","admin0","Deaths","Deaths",2011,0
+"SYR","Syria","admin0","Deaths","Deaths",2012,0
+"SYR","Syria","admin0","Deaths","Deaths",2013,0
+"SYR","Syria","admin0","Deaths","Deaths",2014,0
+"SYR","Syria","admin0","Deaths","Deaths",2015,0
+"SYR","Syria","admin0","Deaths","Deaths",2016,0
+"SYR","Syria","admin0","Deaths","Deaths",2017,0
+"SYR","Syria","admin0","Deaths","Deaths",2018,0
+"SYR","Syria","admin0","Deaths","Deaths",2019,0
+"SYR","Syria","admin0","Deaths","Deaths",2020,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2010,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2011,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2012,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2013,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2014,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2015,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2016,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2017,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2018,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2019,0
+"TJK","Tajikistan","admin0","Clinical Cases","Cases",2020,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2010,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2011,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2012,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2013,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2014,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2015,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2016,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2017,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2018,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2019,0
+"TJK","Tajikistan","admin0","Deaths","Deaths",2020,0
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2010,6141211.015077866
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2011,5851348.5708485
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2012,5877174.521434518
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2013,6514018.702686599
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2014,7205686.074521447
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2015,7162823.253317928
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2016,6878606.565464257
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2017,6642460.902714321
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2018,6335424.949844147
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2019,6319931.225893974
+"TZA","Tanzania","admin0","Clinical Cases","Cases",2020,6951640.488764342
+"TZA","Tanzania","admin0","Deaths","Deaths",2010,11820.972490461178
+"TZA","Tanzania","admin0","Deaths","Deaths",2011,10298.036820252577
+"TZA","Tanzania","admin0","Deaths","Deaths",2012,9211.823988946142
+"TZA","Tanzania","admin0","Deaths","Deaths",2013,10206.238770690024
+"TZA","Tanzania","admin0","Deaths","Deaths",2014,11441.189785658116
+"TZA","Tanzania","admin0","Deaths","Deaths",2015,11260.010475179726
+"TZA","Tanzania","admin0","Deaths","Deaths",2016,10507.67372925698
+"TZA","Tanzania","admin0","Deaths","Deaths",2017,9781.329076692855
+"TZA","Tanzania","admin0","Deaths","Deaths",2018,9456.073650826507
+"TZA","Tanzania","admin0","Deaths","Deaths",2019,9348.270963001718
+"TZA","Tanzania","admin0","Deaths","Deaths",2020,12561.445208288982
+"THA","Thailand","admin0","Clinical Cases","Cases",2010,24651.92955222119
+"THA","Thailand","admin0","Clinical Cases","Cases",2011,22599.742979980794
+"THA","Thailand","admin0","Clinical Cases","Cases",2012,26462.740880166977
+"THA","Thailand","admin0","Clinical Cases","Cases",2013,27588.863410105416
+"THA","Thailand","admin0","Clinical Cases","Cases",2014,23004.101957190225
+"THA","Thailand","admin0","Clinical Cases","Cases",2015,5401.738828574071
+"THA","Thailand","admin0","Clinical Cases","Cases",2016,2662.833446437628
+"THA","Thailand","admin0","Clinical Cases","Cases",2017,0
+"THA","Thailand","admin0","Clinical Cases","Cases",2018,0
+"THA","Thailand","admin0","Clinical Cases","Cases",2019,0
+"THA","Thailand","admin0","Clinical Cases","Cases",2020,0
+"THA","Thailand","admin0","Deaths","Deaths",2010,109.89051652363979
+"THA","Thailand","admin0","Deaths","Deaths",2011,83.70095395439128
+"THA","Thailand","admin0","Deaths","Deaths",2012,85.08183968265587
+"THA","Thailand","admin0","Deaths","Deaths",2013,84.11130557683906
+"THA","Thailand","admin0","Deaths","Deaths",2014,62.957852041913426
+"THA","Thailand","admin0","Deaths","Deaths",2015,11.678299156711633
+"THA","Thailand","admin0","Deaths","Deaths",2016,5.0176277906939095
+"THA","Thailand","admin0","Deaths","Deaths",2017,0
+"THA","Thailand","admin0","Deaths","Deaths",2018,0
+"THA","Thailand","admin0","Deaths","Deaths",2019,0
+"THA","Thailand","admin0","Deaths","Deaths",2020,0
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2010,70899.87510345179
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2011,25035.61412203213
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2012,3381.47167889019
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2013,685.0354671692386
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2014,256.4449253136027
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2015,62.66988223186514
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2016,94.86964401655032
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2017,14.378502948357857
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2018,0
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2019,0
+"TLS","Timor-Leste","admin0","Clinical Cases","Cases",2020,0
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2010,392.859858842607
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2011,125.72385974181083
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2012,14.63151238099717
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2013,2.7431075442859654
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2014,0.9493205088318359
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2015,0.20755209988443593
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2016,0.29725897634569354
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2017,0.042800506200615256
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2018,0
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2019,0
+"TLS","Timor-Leste","admin0","Deaths","Deaths",2020,0
+"TGO","Togo","admin0","Clinical Cases","Cases",2010,2036248.0508458999
+"TGO","Togo","admin0","Clinical Cases","Cases",2011,2080271.9244601335
+"TGO","Togo","admin0","Clinical Cases","Cases",2012,2299462.259073005
+"TGO","Togo","admin0","Clinical Cases","Cases",2013,2537833.252129466
+"TGO","Togo","admin0","Clinical Cases","Cases",2014,2587343.935798118
+"TGO","Togo","admin0","Clinical Cases","Cases",2015,2561143.8049103864
+"TGO","Togo","admin0","Clinical Cases","Cases",2016,2383830.6409173673
+"TGO","Togo","admin0","Clinical Cases","Cases",2017,2084036.791561074
+"TGO","Togo","admin0","Clinical Cases","Cases",2018,1908635.2546639799
+"TGO","Togo","admin0","Clinical Cases","Cases",2019,1825467.5106917357
+"TGO","Togo","admin0","Clinical Cases","Cases",2020,1860999.4871263253
+"TGO","Togo","admin0","Deaths","Deaths",2010,6531.703148677892
+"TGO","Togo","admin0","Deaths","Deaths",2011,6531.899048882749
+"TGO","Togo","admin0","Deaths","Deaths",2012,6800.140589077062
+"TGO","Togo","admin0","Deaths","Deaths",2013,7151.255691283022
+"TGO","Togo","admin0","Deaths","Deaths",2014,6973.243526419626
+"TGO","Togo","admin0","Deaths","Deaths",2015,6725.441034027493
+"TGO","Togo","admin0","Deaths","Deaths",2016,5989.683051927958
+"TGO","Togo","admin0","Deaths","Deaths",2017,5161.327021842116
+"TGO","Togo","admin0","Deaths","Deaths",2018,5078.223225873127
+"TGO","Togo","admin0","Deaths","Deaths",2019,4854.351932198605
+"TGO","Togo","admin0","Deaths","Deaths",2020,5054.217247058736
+"TUR","Turkey","admin0","Clinical Cases","Cases",2010,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2011,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2012,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2013,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2014,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2015,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2016,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2017,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2018,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2019,0
+"TUR","Turkey","admin0","Clinical Cases","Cases",2020,0
+"TUR","Turkey","admin0","Deaths","Deaths",2010,0
+"TUR","Turkey","admin0","Deaths","Deaths",2011,0
+"TUR","Turkey","admin0","Deaths","Deaths",2012,0
+"TUR","Turkey","admin0","Deaths","Deaths",2013,0
+"TUR","Turkey","admin0","Deaths","Deaths",2014,0
+"TUR","Turkey","admin0","Deaths","Deaths",2015,0
+"TUR","Turkey","admin0","Deaths","Deaths",2016,0
+"TUR","Turkey","admin0","Deaths","Deaths",2017,0
+"TUR","Turkey","admin0","Deaths","Deaths",2018,0
+"TUR","Turkey","admin0","Deaths","Deaths",2019,0
+"TUR","Turkey","admin0","Deaths","Deaths",2020,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2010,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2011,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2012,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2013,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2014,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2015,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2016,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2017,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2018,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2019,0
+"TKM","Turkmenistan","admin0","Clinical Cases","Cases",2020,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2010,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2011,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2012,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2013,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2014,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2015,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2016,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2017,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2018,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2019,0
+"TKM","Turkmenistan","admin0","Deaths","Deaths",2020,0
+"UGA","Uganda","admin0","Clinical Cases","Cases",2010,12698625.103241839
+"UGA","Uganda","admin0","Clinical Cases","Cases",2011,12400938.20585424
+"UGA","Uganda","admin0","Clinical Cases","Cases",2012,12015484.128892682
+"UGA","Uganda","admin0","Clinical Cases","Cases",2013,10954036.556476075
+"UGA","Uganda","admin0","Clinical Cases","Cases",2014,10531313.037288452
+"UGA","Uganda","admin0","Clinical Cases","Cases",2015,10072417.35496365
+"UGA","Uganda","admin0","Clinical Cases","Cases",2016,10099568.462759266
+"UGA","Uganda","admin0","Clinical Cases","Cases",2017,10210076.071855592
+"UGA","Uganda","admin0","Clinical Cases","Cases",2018,9473988.260436513
+"UGA","Uganda","admin0","Clinical Cases","Cases",2019,8348538.632794429
+"UGA","Uganda","admin0","Clinical Cases","Cases",2020,10005552.224617697
+"UGA","Uganda","admin0","Deaths","Deaths",2010,39739.09361020557
+"UGA","Uganda","admin0","Deaths","Deaths",2011,34402.60411607366
+"UGA","Uganda","admin0","Deaths","Deaths",2012,28452.418243847314
+"UGA","Uganda","admin0","Deaths","Deaths",2013,23303.14431968511
+"UGA","Uganda","admin0","Deaths","Deaths",2014,20633.173672140176
+"UGA","Uganda","admin0","Deaths","Deaths",2015,21569.32070929786
+"UGA","Uganda","admin0","Deaths","Deaths",2016,20634.710081535966
+"UGA","Uganda","admin0","Deaths","Deaths",2017,20709.05725414949
+"UGA","Uganda","admin0","Deaths","Deaths",2018,19183.548728005244
+"UGA","Uganda","admin0","Deaths","Deaths",2019,16882.994078052612
+"UGA","Uganda","admin0","Deaths","Deaths",2020,28429.164888507006
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2010,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2011,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2012,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2013,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2014,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2015,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2016,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2017,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2018,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2019,0
+"UZB","Uzbekistan","admin0","Clinical Cases","Cases",2020,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2010,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2011,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2012,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2013,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2014,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2015,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2016,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2017,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2018,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2019,0
+"UZB","Uzbekistan","admin0","Deaths","Deaths",2020,0
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2010,7714.57503654737
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2011,4834.871875879845
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2012,4062.477382572582
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2013,2513.5138463485964
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2014,712.3683710183891
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2015,350.31805060460863
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2016,417.9029981419247
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2017,564.894055188163
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2018,92.1999575887966
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2019,69.18200578265223
+"VUT","Vanuatu","admin0","Clinical Cases","Cases",2020,71.34088829422681
+"VUT","Vanuatu","admin0","Deaths","Deaths",2010,33.76233140322753
+"VUT","Vanuatu","admin0","Deaths","Deaths",2011,19.162930773172157
+"VUT","Vanuatu","admin0","Deaths","Deaths",2012,14.388072444419441
+"VUT","Vanuatu","admin0","Deaths","Deaths",2013,7.6110328249091825
+"VUT","Vanuatu","admin0","Deaths","Deaths",2014,1.940787500353243
+"VUT","Vanuatu","admin0","Deaths","Deaths",2015,0.8854309549545808
+"VUT","Vanuatu","admin0","Deaths","Deaths",2016,0.9733873088812327
+"VUT","Vanuatu","admin0","Deaths","Deaths",2017,1.2509454750703117
+"VUT","Vanuatu","admin0","Deaths","Deaths",2018,0.22468309068932227
+"VUT","Vanuatu","admin0","Deaths","Deaths",2019,0.11332927808851709
+"VUT","Vanuatu","admin0","Deaths","Deaths",2020,0.12036324160918259
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2010,22814.672238719348
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2011,20353.17659933062
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2012,22456.44787432612
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2013,44258.66312935553
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2014,41254.46106771708
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2015,73973.86600124581
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2016,102759.27112974119
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2017,161378.66164387262
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2018,176383.4320244041
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2019,149333.95544501528
+"VEN","Venezuela","admin0","Clinical Cases","Cases",2020,83208.11725749007
+"VEN","Venezuela","admin0","Deaths","Deaths",2010,61.6513048264522
+"VEN","Venezuela","admin0","Deaths","Deaths",2011,55.63469551967752
+"VEN","Venezuela","admin0","Deaths","Deaths",2012,61.26550352279069
+"VEN","Venezuela","admin0","Deaths","Deaths",2013,126.92095985695344
+"VEN","Venezuela","admin0","Deaths","Deaths",2014,116.71322186822242
+"VEN","Venezuela","admin0","Deaths","Deaths",2015,218.94385950653032
+"VEN","Venezuela","admin0","Deaths","Deaths",2016,294.4205983305051
+"VEN","Venezuela","admin0","Deaths","Deaths",2017,480.48389345891195
+"VEN","Venezuela","admin0","Deaths","Deaths",2018,533.0075005480085
+"VEN","Venezuela","admin0","Deaths","Deaths",2019,382.1586054697058
+"VEN","Venezuela","admin0","Deaths","Deaths",2020,211.3365180648266
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2010,29481.36026063332
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2011,24762.059236143974
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2012,27347.9486342031
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2013,22773.499952040835
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2014,19243.35952757655
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2015,10537.574033921977
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2016,5797.314568551239
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2017,9693.4271886146
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2018,5091.589764665028
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2019,5846.7410039683555
+"VNM","Vietnam","admin0","Clinical Cases","Cases",2020,2570.6768804217686
+"VNM","Vietnam","admin0","Deaths","Deaths",2010,243.72701743632615
+"VNM","Vietnam","admin0","Deaths","Deaths",2011,169.31586289885024
+"VNM","Vietnam","admin0","Deaths","Deaths",2012,166.97910848879803
+"VNM","Vietnam","admin0","Deaths","Deaths",2013,123.33033209373754
+"VNM","Vietnam","admin0","Deaths","Deaths",2014,92.85804279063277
+"VNM","Vietnam","admin0","Deaths","Deaths",2015,50.86380618083016
+"VNM","Vietnam","admin0","Deaths","Deaths",2016,23.313138013367976
+"VNM","Vietnam","admin0","Deaths","Deaths",2017,36.75672581044334
+"VNM","Vietnam","admin0","Deaths","Deaths",2018,20.030127955532794
+"VNM","Vietnam","admin0","Deaths","Deaths",2019,18.105636378797264
+"VNM","Vietnam","admin0","Deaths","Deaths",2020,8.477980781246803
+"YEM","Yemen","admin0","Clinical Cases","Cases",2010,713888.8314068065
+"YEM","Yemen","admin0","Clinical Cases","Cases",2011,640002.7992483865
+"YEM","Yemen","admin0","Clinical Cases","Cases",2012,717076.6094296015
+"YEM","Yemen","admin0","Clinical Cases","Cases",2013,687958.991312396
+"YEM","Yemen","admin0","Clinical Cases","Cases",2014,772615.5895876058
+"YEM","Yemen","admin0","Clinical Cases","Cases",2015,696317.7836800967
+"YEM","Yemen","admin0","Clinical Cases","Cases",2016,809814.4538031617
+"YEM","Yemen","admin0","Clinical Cases","Cases",2017,1011184.0744196139
+"YEM","Yemen","admin0","Clinical Cases","Cases",2018,1103391.420872652
+"YEM","Yemen","admin0","Clinical Cases","Cases",2019,1154599.3101636837
+"YEM","Yemen","admin0","Clinical Cases","Cases",2020,1056153.7674743764
+"YEM","Yemen","admin0","Deaths","Deaths",2010,7082.9489982197465
+"YEM","Yemen","admin0","Deaths","Deaths",2011,6627.55883060852
+"YEM","Yemen","admin0","Deaths","Deaths",2012,7555.47626411179
+"YEM","Yemen","admin0","Deaths","Deaths",2013,6437.134527380901
+"YEM","Yemen","admin0","Deaths","Deaths",2014,7446.718143364312
+"YEM","Yemen","admin0","Deaths","Deaths",2015,6850.160223485439
+"YEM","Yemen","admin0","Deaths","Deaths",2016,8151.841249403878
+"YEM","Yemen","admin0","Deaths","Deaths",2017,10142.462713902776
+"YEM","Yemen","admin0","Deaths","Deaths",2018,9768.05224984143
+"YEM","Yemen","admin0","Deaths","Deaths",2019,6541.880088642531
+"YEM","Yemen","admin0","Deaths","Deaths",2020,5840.069161825911
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2010,2313365.437193777
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2011,2568993.418419355
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2012,2954033.8773858217
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2013,3474455.2360220384
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2014,3667702.3410127824
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2015,3579252.272226588
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2016,3470898.1261826446
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2017,3220676.430705285
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2018,3204356.5662079332
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2019,3216771.179803172
+"ZMB","Zambia","admin0","Clinical Cases","Cases",2020,3551796.540831626
+"ZMB","Zambia","admin0","Deaths","Deaths",2010,3403.8374960513347
+"ZMB","Zambia","admin0","Deaths","Deaths",2011,3262.5621260798825
+"ZMB","Zambia","admin0","Deaths","Deaths",2012,3662.7080225131626
+"ZMB","Zambia","admin0","Deaths","Deaths",2013,4371.19881524335
+"ZMB","Zambia","admin0","Deaths","Deaths",2014,4551.427903222877
+"ZMB","Zambia","admin0","Deaths","Deaths",2015,4380.078734924928
+"ZMB","Zambia","admin0","Deaths","Deaths",2016,4270.947118664101
+"ZMB","Zambia","admin0","Deaths","Deaths",2017,3902.9520525652947
+"ZMB","Zambia","admin0","Deaths","Deaths",2018,4275.874957747877
+"ZMB","Zambia","admin0","Deaths","Deaths",2019,4116.189228505336
+"ZMB","Zambia","admin0","Deaths","Deaths",2020,5654.197300063264
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2010,2610163.14255304
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2011,1161958.619790502
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2012,870902.0428038497
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2013,1326233.5379316504
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2014,1681831.834102595
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2015,1508473.4311995967
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2016,1045773.2270710928
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2017,1621341.9816362883
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2018,873515.8200561218
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2019,938922.6596818625
+"ZWE","Zimbabwe","admin0","Clinical Cases","Cases",2020,1413850.1654780963
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2010,9791.731769061937
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2011,4078.175012859872
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2012,2827.7508510854977
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2013,4062.733687916903
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2014,4752.188910530364
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2015,3707.016472354253
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2016,2527.1151094986217
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2017,3877.380443012292
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2018,2194.522761284592
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2019,1808.556414643624
+"ZWE","Zimbabwe","admin0","Deaths","Deaths",2020,2742.839397745037

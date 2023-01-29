@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="style1.css">
+    
+    <title>Malaria Mind</title>
+</head>
+<body>
+   <center> <h1>Malaria Mind</h1></center>
+   <center>AI for Malaria Management and Control</center>
+   <br>
+    <div class="contactform">
+        <form class="contact" onsubmit="sendmail() ;reset(); return false;">
+            <label for="location">Location:</label>
+            <input type="text" id="location" placeholder="Location" required>
+            <label for="year">Year:</label>
+            <input type="int" id="year" placeholder="Year" required>
+            <label for="indcases">Indegenous Cases</label>
+            <input type="int" id="indcases" placeholder="Indegenous Cases" required>
+            <label for="falci">Cases due to Falciparum</label>
+            <input type="int" id="falci" placeholder="Cases due to Falciparum" required>
+            <label for="vivax">Cases due to Vivax</label>
+            <input type="int" id="vivax" placeholder="Cases due to Vivax" required>
+            <label for="ItnUse">ItnUse</label>
+            <input type="int" id="ItnUse" placeholder="" required>
+            <label for="ItnUseRate">ItnUseRate</label>
+            <input type="int" id="ItnUseRate" placeholder="" required>
+            <label for="ItnAccess">ItnAccess</label>
+            <input type="int" id="ItnAccess" placeholder="" required>
+            <label for="irs">Proportion of houses with IRS</label>
+            <input type="int" id="irs" placeholder="" required>
+            <label for="treatment">Proportion to recieve effective treatment</label>
+            <input type="int" id="treatment" placeholder="" required>
+            <button type="submit">Submit</button> 
+        </form>
+    </div>
+    </body>
+    </html>
